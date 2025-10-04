@@ -1,4 +1,3 @@
-# %% [markdown]
 # # Indeed Job Scraper
 #
 # A modular web scraping tool for collecting job postings from Indeed.com
