@@ -1,0 +1,631 @@
+Title,Company,Location,Salary,URL,Description
+"AI Research Engineer, New PhD Graduate",Duolingo,"Pittsburgh, PA","$131,800 - $186,000",https://www.indeed.com/rc/clk?jk=1e5d0983e18599b2&bb=10-r0rBpzhMBnWYIxB1ZJbohCBPq9Pf3c07xcyr43rYUxt-jXtm0zN56_KnkARXJWnLUp3p4b-QARmlRJinMQYzZZN09jUEgT0GA0D8l6BecTB4OR8Tvdkt-fJvkvFXhgjNgC4T58veuq6B8N7_kZH4M_X2muqvB&xkcb=SoDU67M3sVnfBoyEjh0CbzkdCdPP&fccid=1d7146bd38091a7a&vjs=3,"Our mission at Duolingo is to develop the best education in the world and make it universally available. But we've got more left to do — and that's where you come in!
+Duolingo is the world's most popular learning app. Beyond our core learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+What you'll do...
+Solve our most ambitious problems with the right tool for the task
+Collaborate cross-functionally to bring your ideas to life in the product
+Identify problems, prototype solutions, evaluate their return on investment, and then implement the best solution at scale to improve the lives of our millions of learners each day
+Share your findings both within Duolingo as well as to the broader research community
+
+What we're looking for…
+You have an Ph.D. in computer science or related technical field (or expect to by August 2026)
+A portfolio of impactful work, in the form of (for example) publications, open-source projects, or AI internships
+Ability to relocate to Pittsburgh, PA or New York, NY
+A creative, interdisciplinary, and entrepreneurial approach to R&D
+Strong debugging and critical thinking skills
+Why you'll love working here…
+Language learning opportunities
+Catered in-house lunches and breakfast
+Company-wide Hackathon
+PTO and company holidays
+Frequent company-wide dinners, monthly celebrations, social clubs, and so much more!
+
+Take a peek at how we care for our employees' holistic well-being with our benefits here.
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact accommodations@duolingo.com.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.
+Sign up for job alerts here."
+Principal Machine Learning Integration Engineer,Motional,"Remote in Pittsburgh, PA","$168,000 - $283,900",https://www.indeed.com/rc/clk?jk=3844d8a48de00938&bb=10-r0rBpzhMBnWYIxB1ZJTeFVPityShHO8Ul3XPY5s-1CTzzUHM_weRwQkaa8tNTTp2Hpb8j1luZFpCgNc0qWfUB0l5gLmmGzDmMxuXlAiywoc2nWTQ7lc6bYrLhrU7SoNVnGQxK6JJwm1WOasQF0bot2ZaCAWVN&xkcb=SoAU67M3sVnfBoyEjh0PbzkdCdPP&fccid=86e1d3bf79028267&vjs=3,"We are seeking a passionate and experienced engineer to help bring machine learning–based motion planning to the car. In this role, you will focus on deploying, optimizing, and maintaining ML-driven planning and control algorithms for real-time autonomous driving. You will collaborate across motion planning, controls, and software engineering teams to ensure models run reliably in production, under strict performance and safety constraints.
+If you are excited by the challenge of bridging advanced ML with safety-critical, resource-constrained vehicle platforms—and want to shape the future of autonomy—we encourage you to apply.
+What You'll Be Doing
+Deploy ML-based motion planning and control models onto vehicle platforms, ensuring performance under resource constraints.
+Optimize models for inference speed, latency, and memory footprint without sacrificing accuracy or safety.
+Collaborate with motion planning, controls, and perception teams to integrate ML components into the end-to-end autonomous driving stack.
+Build scalable deployment infrastructure including evaluation pipelines, model packaging, benchmarking, and automated validation.
+Validate model performance in both simulation and on-road testing, analyzing results and driving iterative improvements.
+Maintain production-quality code in C++ and Python
+What We're Looking For
+BS/MS/PhD in Robotics, Computer Science, Electrical Engineering, or a related field.
+4+ years of professional experience deploying ML systems in real-world robotics, embedded, or autonomous platforms.
+Strong software engineering skills in C++ and Python, with knowledge of modern development practices (code reviews, testing, CI/CD).
+Hands-on experience with ML frameworks (PyTorch, TensorFlow) and model optimization for deployment.
+Familiarity with GPU acceleration, or inference optimization (e.g., TensorRT, CUDA).
+Strong problem-solving skills and ability to debug complex systems under production constraints.
+Bonus Points
+Experience with autonomous vehicle motion planning, control algorithms (MPC, LQR, PID), or reinforcement learning–based methods.
+Publications in relevant ML or robotics conferences (ICRA, NeurIPS, CoRL, RSS, etc.).
+Experience with ROS, AUTOSAR, or other real-time robotics frameworks.
+Knowledge of numerical optimization and its applications in trajectory generation.
+Why You'll Love Working Here
+Shape the real-world deployment of cutting-edge ML technology on autonomous vehicles.
+Work with world-class ML researchers, software engineers, and controls experts in a highly collaborative environment.
+Contribute to a mission-driven company building safe, accessible, and transformative mobility solutions.
+
+Motional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. We're driven by something more.
+Our journey is always people first.
+We aren't just developing driverless cars; we're creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.
+Higher purpose, greater impact.
+We're creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; it's not only good for our business, it's the right thing to do.
+Scale up, not starting up.
+Our team is behind some of the industry's largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the world's first robotaxi pilot, and operation of the world's longest-standing public robotaxi fleet. We're driven to scale; we're moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.
+Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit www.Motional.com and follow us on Twitter, LinkedIn, Instagram and YouTube.
+Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility."
+Machine Learning Engineer,Govini,"Pittsburgh, PA 15201 
+(Lower Lawrenceville area)",,https://www.indeed.com/rc/clk?jk=c1fbba7eab24f4e7&bb=10-r0rBpzhMBnWYIxB1ZJQ1Yk13J_w6b2HHrARSkqlod2Cq13uhwuqotnM77cE_Qd-tBVQJ09MY3ymNvbGBW4hcfIwSLlqoA1pAsl8gZ6F8zFPG31D1KTUrfzzodDiZd47c_2KVTYgX63Lzl1esH_hkfatuEkUVs&xkcb=SoA967M3sVnfBoyEjh0NbzkdCdPP&fccid=932bcab1f7ee18f8&vjs=3,"Company Description
+
+Govini transforms Defense Acquisition from an outdated manual process to a software-driven strategic advantage for the United States. Our flagship product, Ark, supports Supply Chain, Science and Technology, Production, Sustainment, Logistics, and Modernization teams with AI-enabled Applications and best-in-class data to more rapidly imagine, develop, and field the capabilities we need. Today, the national security community and every branch of the military rely on Govini to enable faster and more informed Acquisition decisions.
+
+Job Description
+
+We are seeking a Machine Learning Engineer to join our team to build cutting-edge machine learning technologies that will replace complex, time-consuming, manual processes with automation and intelligence that will help Govini end-users make scientific and analytical decisions. We're looking for world-class talent to join our team where you will have the opportunity to help develop solutions from data collection to large-scale data manipulation to long-term data storage and low-latency retrieval, reporting, and analytical systems to solve big data problems that drive business performance.
+
+In order to do this job well, you must be a curious and eager problem solver with a hunger for building well-designed, high-quality solutions. You have a passion for great work and nothing less than your best will do. You share our intolerance of mediocrity. You’re uber-smart, challenged by figuring things out and producing simple solutions to complex problems. Knowing there are always multiple answers to a problem, you know how to engage in a constructive dialogue to find the best path forward. You’re scrappy. We like scrappy.
+
+This role is a full-time position located out of our office in Pittsburgh, PA.
+This role may require up to 10% travel
+Scope of Responsibilities
+Actively create, architect, and deliver state-of-the-art machine learning solutions designed to add intelligence to our data analysis and software-as-a-service platform
+Establish meaningful criteria for evaluating algorithm performance and suitability
+Develop clear software specifications for implementing trained models
+Implement working, scalable, production-ready Machine Learning and AI Process Automation models and code
+Optimize processes for maximum speed, performance, and accuracy
+Participate in the end-to-end software development of new feature functionality and design capabilities
+Craft clean, testable, and maintainable code
+Keep up to date with Machine Learning best practices and evolving open-source frameworks
+Regularly seek out innovation and continuous improvement, finding efficiency in all assigned tasks
+Collaborate closely with fellow software engineers, data scientists, data engineers, and QA engineers
+Qualifications
+US Citizenship is required
+
+Required Skills:
+Bachelor's, Master’s, or Doctorate in Computer Science, Computer Engineering, Data Science, or a related field
+Minimum 3 years experience in hands-on development of machine learning models
+Practical experience in building, developing, and productionizing machine learning systems
+Advanced software skills in Python
+Experience with common NLP algorithms and implementations
+Hands-on experience with AWS and cloud infrastructure
+A strong desire to learn and investigate new technologies
+Familiarity with Git source control management
+Prior hands-on experience working with data-driven analytics
+Ability to work collaboratively with little supervision
+A burning desire to work in a challenging fast-paced tech environment
+
+Desired Skills:
+Current possession of a U.S. security clearance, or the ability to obtain one with our sponsorship
+Experience in or exposure to the nuances of a startup or other entrepreneurial environment
+Track record of implementing data-driven products
+Experience in or exposure to the nuances of a startup or other entrepreneurial environment
+Experience in deploying ML models in Kubernetes environments
+2 years of experience developing and deploying modern NLP models
+We firmly believe that past performance is the best indicator of future performance. If you thrive while building solutions to complex problems, are a self-starter, and are passionate about making an impact in global security, we’re eager to hear from you.
+
+Govini is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law."
+Artificial Intelligence(AI) Agent Developer,"Visvero, Inc.","Pittsburgh, PA 15205",,https://www.indeed.com/rc/clk?jk=7978d0d96d118382&bb=10-r0rBpzhMBnWYIxB1ZJSq040nwu-f5xMfbY2r7dBsMQvVgPr5FidNBtindz2yzS-pbNQRzZJ9oSzM04QorDLDBGkqPwsNBY-6kCUgH1u5QVSgrPQ_b3RixDTNc6_A_ONtNRRTzt3xC1CTf_3YjZyF2LCSWnmLr&xkcb=SoD967M3sVnfBoyEjh0AbzkdCdPP&fccid=c71b680e92ae5dd6&vjs=3,"Job Information
+Date Opened
+05/13/2025
+Job Type
+Full time
+Industry
+Technology
+Work Experience
+1-3 years
+City
+Pittsburgh
+State/Province
+Pennsylvania
+Country
+United States
+Zip/Postal Code
+15205
+About Us
+We are a technology services company focused on data, analytics and intelligent robotic processes.
+
+The goal is to enhance user engagement by providing personalized assistance, answering FAQs, and delivering tailored content
+Design and implement an AI agent using platforms like OpenAI, LangChain, or similar
+Integrate the AI agent seamlessly into our website front-end (JavaScript/HTML) and/or back-end
+Customize the AI responses to align with our brand and user needs
+Test, debug, and optimize the AI agent for smooth performance
+Provide documentation and guidance for future maintenance
+Deliverables include AI agent integration, testing, and documentation
+
+Requirements
+Experience integrating AI/chatbot agents into websites
+Strong skills in JavaScript, Python, or relevant web technologies
+Familiarity with AI APIs (OpenAI, Microsoft Graph, etc.)
+Familiarity in Agentic.AI OR Crew.AI
+Ability to customize AI models via prompt engineering or fine-tuning
+Good communication and collaboration skills"
+Principal Machine Learning Engineer- Perception,Motional,"Remote in Pittsburgh, PA","$199,000 - $266,500",https://www.indeed.com/rc/clk?jk=5902615c254aaeeb&bb=10-r0rBpzhMBnWYIxB1ZJZrHbpxeGl6mniaxnGcqctyIm6TV2uaSRM0fQrBWBG-UmFhkLH-WeFnIKYSg1Id1DWBgHU-wKeujx_2HvbYrD2D1vjJrVTusVBH1JLEQkYFY0StkRfDExTEnUfvVLFalpVSG5x2prPJh&xkcb=SoBz67M3sVnfBoyEjh0HbzkdCdPP&fccid=86e1d3bf79028267&vjs=3,"On our Perception team, you have the opportunity to work with world-class ML engineers and research scientists, whose mission is to make self-driving vehicles a reality and to create a positive social impact. Our team works on the tech stack responsible for perceiving the dynamic scenarios, and further tracking and classifying objects around our robo-taxi. We are looking for engineers who are passionate about Level 4 autonomous driving technology, excited by intellectual challenges, and interested in pursuing career growth with a fast-growing company.
+What You'll Be Doing:
+Lead the development and implementation of advanced perception algorithms for object detection, tracking, classification, and segmentation using camera, lidar, and radar data
+Connect and drive business impact through technology solutions
+Design and implement sensor fusion algorithms to combine data from multiple sensors to create a robust and accurate perception system
+Optimize perception algorithms for real-time performance on embedded hardware
+Collaborate with other engineers and teams to integrate perception systems into larger autonomous systems
+Stay abreast of the latest research and advancements in machine learning and computer vision and apply them to real-world problems
+Productionize and deploy solutions onto autonomous vehicle fleets
+Derive good insight from large data sets from a variety of sources
+Mentor and guide junior engineers on the team
+What We're Looking for:
+Masters or Ph.D. in Machine Learning, Computer Science, Robotics, Applied Mathematics, Statistics, Physics or a related field; or equivalent industry experience
+Strong leadership skills at executing large, complex technical initiatives
+In-depth understanding of common Machine Learning and Deep Learning algorithms
+Experience with designing, training, and analyzing neural networks for at least one of the following applications: object detection, semantic/instance segmentation, visual classification, motion/gesture recognition, sensor fusion, multitask learning, multi-object tracking, and/or end-to-end perception
+Experience with deep learning frameworks such as TensorFlow or PyTorch
+Fluency in Python, including standard scientific computing libraries and Python bindings development experience
+Proven track record of developing and deploying perception systems for autonomous vehicles or robotics
+Advanced knowledge of software engineering principles including software design, source control management, build processes, code reviews, testing methods
+Excellent communication and interpersonal skills
+Experience mentoring and leading others
+Bonus Points:
+Experience with embedded systems and real-time optimization, especially in the autonomous driving industry
+Experience with launching ML products from ideation
+Proven track record of publications in relevant conferences (CVPR, ICML, NeurIPS, ICCV, ICL, etc.)
+Experience in deploying models into real-world environments
+Strong programming skills in C++ and/or CUDA programming
+Motional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. We're driven by something more.
+Our journey is always people first.
+We aren't just developing driverless cars; we're creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.
+Higher purpose, greater impact.
+We're creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; it's not only good for our business, it's the right thing to do.
+Scale up, not starting up.
+Our team is behind some of the industry's largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the world's first robotaxi pilot, and operation of the world's longest-standing public robotaxi fleet. We're driven to scale; we're moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.
+Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit www.Motional.com and follow us on Twitter, LinkedIn, Instagram and YouTube.
+Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility."
+"Software Engineer, Planner Vehicle Dynamics",Waymo,"Pittsburgh, PA","$204,000 - $259,000",https://www.indeed.com/rc/clk?jk=2f09a466d135ba37&bb=10-r0rBpzhMBnWYIxB1ZJXHK8egtY8FeJnSd0QNYGmWGxFlmWt8C0M5ULpl1x3wowjDYHbmVubLMmE1BblSE7qbroEvydx_QrEMVGWEKRZnk4dSFLhDRfEcb9EtklDjgv6IQBNyyOfrhs4HjAnfG3l1eghwmkKg4&xkcb=SoBJ67M3sVnfBoyEjh0BbzkdCdPP&fccid=73ceef0a2153d2b8&vjs=3,"Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.
+
+In this role, you’ll:
+Work with a creative team of people who are responsible for ensuring that the behavior of our cars is safe, dynamically feasible, reliable, and comfortable in environments where inputs can be noisy, uncertain, or incomplete.
+Design and deploy algorithms to measure the performance of state of the art technology for handling any kind of weather and degraded conditions that are scalable to different cities and scenarios.
+Work on a bleeding edge project at the intersection of traditional robotics and modern ML techniques.
+
+At a minimum we’d like you to have:
+BS/MS/PHD in Computer Science, Robotics, similar technical field of study, or equivalent practical experience
+Experience with building, integrating, debugging and evaluating ML-based systems
+Strong experience with Python for data analysis
+Strong experience with SQL and working with large datasets
+Strong experience programming in C++ with robust and efficient code
+Strong software architecture skills
+Ability to work on a distributed team
+
+Experience with applying Machine Learning to generate vehicle models, solve motion planning or related robotics problems is preferred but not required.
+The expected base salary range for this full-time position across US locations is listed below. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process.
+Waymo employees are also eligible to participate in Waymo’s discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements.
+Salary Range
+$204,000—$259,000 USD"
+"Staff Scientist, Data Sciences",Thermo Fisher Scientific,"Pittsburgh, PA 15205",,https://www.indeed.com/rc/clk?jk=31fd282616fe12f1&bb=10-r0rBpzhMBnWYIxB1ZJXWM1EMJgz78muibyPtqgcP90GCro5_H07E8zQh7D550IebLtH4KIXyeYz9qmKXXapOJOVpXsBZx3VdOJB7sO3z3l8vl8UMijV-dduaCz2n7AZqkWmTR-MTsY6TaySUwBVnLHYZswF2O&xkcb=SoDH67M3sVnfBoyEjh0GbzkdCdPP&fccid=126e3afd205caa95&vjs=3,"Work Schedule
+Standard (Mon-Fri)
+Environmental Conditions
+Office
+Job Description
+When you join us at Thermo Fisher Scientific, you’ll be part of an inquisitive team that shares your passion for exploration and discovery. With revenues of more than $40 billion and the largest investment in R&D in the industry, we give our people the resources and chances to create significant contributions to the world.
+Staff Scientist, Data Sciences – Corporate/LPG-LCD
+An opportunity exists for a Staff Scientist, Data Sciences in the Corporate Data Science team supporting the Laboratory Chemicals Division (LCD) of Thermo Fisher Scientific. This position offers the right candidate a key position in the Corporate Team supporting the Laboratory Products Group and will provide opportunities for career development and growth. The position has global coverage and will be based in Pittsburgh, PA, operating with a hybrid calendar (minimum 3 days onsite per week). You will report to a managing data scientist and be positioned on an existing team of several data scientists, analysts, and a program manager.
+The Laboratory Chemicals Divisions (LCD) enables its customers by bringing chemistry to life! Scientific journeys begin with chemicals and end with life-enriching results. Our purpose is to deliver chemicals safely and efficiently, so that our customers can focus on results. Together, we will:
+Become the trusted partner for chemicals in the markets we serve
+Honor our commitments by consistently delivering results
+Become an admired business to work for, and a safe and exciting career destination for superior talent.
+Collaborating with a dedicated team, you will gain insights into the intricate business challenges and transform them into operational frameworks and algorithms. These solutions will be presented to fellow analysts and business partners. There will be a continuous challenge to develop new analytic capabilities and improve existing ones on a wide variety of projects. The Staff Data Scientist will choose the approach taken.
+How will you make an impact:
+You will enable our customers to make the world healthier, cleaner, and safer by employing a cross section of machine learning and analytic processes to develop algorithms that will improve efficiency and drive revenue enabling growth for Thermo Fisher Scientific Chemicals division.
+What will you do: Responsibilities
+Develops strategies and requirements to use artificial intelligence and automation to enhance business decisions.
+Quickly grasp the sophisticated business priorities and marketing objectives to translate them into algorithms and communicate the results to team members with varying degrees of technical background
+Collaborate closely with peers in Marketing, Portfolio Management, and Sales to identify key business needs and areas of opportunities and translate business questions into quantitative analyses.
+Proactively identify and evaluate growth opportunities to be translated as recommendations for our Commercial and Marketing teams.
+Develop visualization and key performance indexes to supervise effectiveness of marketing and guide marketing decisions.
+Proactively identify gaps and opportunities for sales and marketing teams and use data to generate leads and to drive revenue.
+Efficiently respond to requests for ad hoc analyses.
+Work with Marketing Analytics team to create reporting to drive desired business results.
+How will you get here:
+Bachelor's Degree with 5 years of proven experience in data science, analytics, statistics, applied math or related OR Master’s Degree with 3 years of proven experience
+Business analytics required, pricing or marketing analytics experience a plus
+Proficiency in Python (or PySpark) and SQL
+AWS/Cloud Computing experience preferred
+Exposure to a variety of operating systems and computing platforms preferred
+Familiarity with available Open-Source solutions that will boost the team’s effectiveness preferred
+Knowledge, Skills, Abilities:
+Extracting data from multiple sources, cleaning and validating for duplicates and other anomalies
+Employing math and statistics into algorithms to generate real-time predictive systems
+Align and adapt business problems to the most efficient machine learning algorithm
+Write code from scratch to create solutions that don’t align with any available turnkey package
+Selecting and explaining the best analytical technique for the problem
+Understanding how to create a computationally efficient solution
+Accurately manage data coming from multiple domestic and international sources
+Proactively create solutions as opportunities are identified
+Exceptional project management skills and the ability to manage multiple concurrent projects to complete responsibilities in a timely and accurate manner
+Must embrace team spirit and have strong interpersonal skills
+Excellent written and oral communication skills, including an ability to communicate across business areas and with global team
+Initiative-taking with bias for action.
+Willingness to travel to accomplish assigned goals.
+Must show the ability to demonstrate the Thermo Fisher values (The Four I’s) – Integrity, Intensity, Innovation, and Involvement
+Our Mission is to enable our customers to make the world healthier, cleaner and safer. Watch as our colleagues explain 5 reasons to work with us. As one team of 100,000+ colleagues, we share a common set of values - Integrity, Intensity, Innovation and Involvement - working together to accelerate research, solve complex scientific challenges, drive technological innovation and support patients in need. #StartYourStory at Thermo Fisher Scientific, where diverse experiences, backgrounds and perspectives are valued.
+Apply today! http://jobs.thermofisher.com
+Thermo Fisher Scientific is an EEO/Affirmative Action Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+Accessibility/Disability Access
+Job Seekers with a Disability: Thermo Fisher Scientific offers accessibility service for job seekers requiring accommodations in the job application process. For example, this may include individuals requiring assistance because of hearing, vision, mobility, or cognitive impairments. If you are a job seeker with a disability, or assisting a person with a disability, and require accessibility assistance or an accommodation to apply for one of our jobs, please submit a request by telephone at 1-855-471-2255*. Please include your contact information and specific details about your required accommodation to support you during the job application process.
+This telephone line is reserved solely for job seekers with disabilities requiring accessibility assistance or an accommodation in the job application process. Messages left for other purposes, such as not being able to get into the career website, following up on an application, or other non-disability related technical issues will not receive a response."
+Software Engineer - Machine Learning,Hike2,"Remote in Pittsburgh, PA","$100,000 - $170,000",https://www.indeed.com/rc/clk?jk=696f8bb513ef7f70&bb=10-r0rBpzhMBnWYIxB1ZJVtloTsGMnpbae09kIRVEoFMCTvwaRUNMto4fI9nXn0qoNVdfSCxSJ65AwC50IKQGwgpMg7-K7lwH7WXI8X5v4ZB0TQnpiLqFp7EUcLEAybdIN7RRBWieqdjjuS4CLqs-U7ZS3xX_DlH&xkcb=SoAH67M3sVnfBoyEjh0LbzkdCdPP&fccid=3aa37f402da13777&vjs=3,"Who We Are
+HIKE2 is a leading provider of technology advisory and implementation services that specializes in empowering a distinct set of industries to define their future and accelerate their path forward. With expertise for law firms, financial services, insurance, business service providers, and high-tech SaaS companies, our team addresses complex and evolving challenges by providing advisory services and tailoring cutting-edge cloud solutions, AI initiatives, and data & analytics programs.
+We are a collaborative, diverse, and action-oriented group of consultants who work iteratively to capture client mindsets and solve the most complex business problems. For our teams, there’s no such thing as “cookie-cutter” advice or solutions. We thrive in change and love going from blank slate to truly innovative ideas and creative breakthroughs, developing solutions from our deep, cross-discipline expertise shaped by senior advisors and practical experience.
+We care deeply about our clients, building strong and positive relationships with their partners and fellow guides, and the impact of their work.
+At HIKE2:
+We work in teams
+We are committed to our customer success and each other’s success
+We set the bar high and challenge one another
+We are passionate about emerging technologies and love the thrill of venturing to the edge of technology
+We get out from behind our desks and go to the drawing board
+We gather information and get to know our clients face to face
+Are you ready to make a change? Join our growing team and excel in your career!
+HIKE2 has an exciting opportunity for a Software Engineer - Machine Learning Consultant. You will be responsible for developing, implementing, and maintaining machine learning models and systems. We want you to bridge the gap between data science research and production-ready software, focusing on building scalable and robust applications that leverage machine learning. This role requires a strong foundation in both software engineering and machine learning principles, including data handling, algorithm development, and system deployment
+
+What You’ll Do
+Build and Deploy ML Solutions: Design, develop, and deploy end-to-end machine learning models and pipelines that automate data-driven decision-making and operational tasks.
+Integrate ML with Applications and Workflows: Develop and integrate APIs and services to support machine learning applications.
+Shape ML Architecture: Influence the design and technical architecture of ML systems, ensuring scalability, robustness, and maintainability.
+Cross-Functional Collaboration: Partner with software engineers, product managers, and other stakeholders to translate business problems into ML solutions.
+Model Lifecycle Management: Own and/or advise on the full lifecycle of machine learning models, from data preparation and model training to deployment and ongoing monitoring.
+Data Preparation and Feature Engineering: Acquire, clean, and preprocess structured and unstructured data to ensure high-quality inputs for training statistical and machine learning models.
+
+Bachelor’s Degree in Computer Science, Engineering, Mathematics, or a related quantitative field.
+3–5 years of experience in developing and deploying statistical and machine learning models in a production environment.
+Strong experience in Python.
+Hands-on Experience with end-to-end ML pipelines including data ingestion, preprocessing, feature engineering, model training, evaluation, deployment, and monitoring.
+Cloud Platform Proficiency: Experience working with cloud providers like AWS or Azure, particularly with ML-focused services.
+Strong API Integration Skills: Ability to build and consume RESTful APIs to integrate ML models with software applications.
+Model Deployment Tools: Familiarity with containerization (Docker), orchestration (Kubernetes), and CI/CD for ML.
+Solid Understanding of Statistical Modeling: Experience developing, validating, and interpreting statistical models and drawing insights from data.
+Software Engineering Foundations: Knowledge of version control (Git), software development life cycle (SDLC), and agile development methodologies like SCRUM.
+Preferred Skills and Experience
+Client-Facing Experience: Experience in a consulting, technology, or law firm environment is a plus, especially working with non-technical stakeholders.
+AI/ML Thought Leadership: Demonstrated ability to articulate and drive ML strategy and business value, ideally with examples of real-world impact.
+Statistical and Predictive Modeling: Prior experience with advanced statistical modeling techniques, such as time series forecasting, regression, classification, or clustering.
+Familiarity with AI Governance: Understanding of operational and legal considerations in deploying ML systems, especially in regulated environments.
+The annual base salary range is $100,000-$170,000/year. This range represents the anticipated low and high end of the salary for this position. This role is also eligible to receive short term incentives that align with individual and company performance. Salary will be determined by the education, experience, knowledge, skills, and abilities of the applicant, internal equity, and alignment with market data. Salary is one component of the HIKE2. total compensation package, which includes the below:
+Six national health medical plans to choose from, including a HSA option
+Dental & Vision options
+Retirement Savings with a Safe Harbor 401K plan with immediate vesting and company match
+Long and short term disability coverage options
+Life Insurance and travel insurance
+Flexible PTO policy and 10 paid holidays
+Reimbursement for certifications related to your role
+Opportunity for career development, advancement and learning
+Don’t meet every requirement?
+As an innovation consultancy, we recognize that talent is not always related to job history and skills come from valuable experiences that aren’t always shown on a resume. If you are excited to make a positive impact, but your experience doesn’t align perfectly, we encourage you to apply. You may be the right candidate for our organization, whether it be this role or another.
+EOE / Minorities / Females / Veteran Disabled
+We are an equal opportunity employer that values diversity and commitment at all levels. All individuals, regardless of personal characteristics, are encouraged to apply. Employment policies and decisions on employment and promotion are based on merit, qualifications, performance, and business needs. The decisions and criteria governing the employment relationship with all employees are made in a nondiscriminatory manner, without regard to race, religion, color, national origin, sex, age, marital status, physical or mental disability, medical condition, veteran status, or any other factor determined to be unlawful by federal, state, or local statutes.
+U. S. Citizenship
+Applicants for employment in the U.S. must possess work authorization which does not require now or in the future sponsorship by the employer for a visa."
+"Data Scientist, New Graduate",Duolingo,"Pittsburgh, PA","$135,000 - $200,000",https://www.indeed.com/rc/clk?jk=252c1acf3cad34a8&bb=10-r0rBpzhMBnWYIxB1ZJVWCbAcl9E4nVOD7XUtlkIxEd6uCXDVFx899KNX0X_m53cVxcT5C1m9cCeVqb16_vQdcMujr7qghuY3CRneWXTLHTm0mGv163RDOPkCRr6cWrKIeW7_Xqy7Q4CX-Hw7cnmx2CDZ-OC-F&xkcb=SoCa67M3sVnfBoyEjh0IbzkdCdPP&fccid=1d7146bd38091a7a&vjs=3,"Our mission at Duolingo is to develop the best education in the world and make it universally available. It's a big mission, and that's where you come in!
+At Duolingo, you'll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You'll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that's both meaningful and fun.
+Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.
+Read our blog to learn more.
+About the role
+
+You will...
+Derive insights from data to influence product roadmaps and drive business results
+Apply advanced analytical methods to model user behavior and estimate the impact of potential new features. Collaborate with product and engineering teams to develop and implement solutions.
+Evaluate product experiments to create and improve user experiences
+Build dashboards, reports, and/or forecasts to help preserve our culture of fact-based decision making as we scale
+Ensure the quality of our tracking and data collection is high (and improving!)
+
+You have...
+Currently pursuing an undergraduate or graduate degree in a quantitative field (e.g. statistics, economics, computer science, math, linguistics, computational social science), with expected graduation by Fall 2025 or Spring/Summer 2026. We will also consider candidates with 1-2 years since degree completion.
+Strong understanding of consumer digital products and an interest in applying advanced analytics to business outcomes
+Previous experience analyzing large datasets and communicating results
+Skilled in SQL, Python or R, and/or statistical methods to analyze behavioral data
+Excellent presentation and communication skills
+Enthusiasm for learning and sharing analytical methods to help grow a collaborative Data Science team and data-forward company culture
+Able to relocate to Pittsburgh, PA
+
+Exceptional candidates will have...
+Experience with ""big data"" and cloud computing technologies like BigQuery, Snowflake, and/or dbt
+Experience articulating business questions and using available data to find answers that translate into product recommendations
+Self-starter, with a desire both to learn new techniques and guide others
+
+Why you'll love working here…
+Language learning opportunities
+Catered in-house lunches and breakfast
+Company-wide Hackathon
+PTO and company holidays
+Frequent company-wide dinners, monthly celebrations, social clubs, and so much more!
+
+Take a peek at how we care for our employees' holistic well-being with our benefits here.
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact accommodations@duolingo.com.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.
+Sign up for job alerts here."
+Quantitative Trading Analyst,SESCO Enterprises,"Pittsburgh, PA",,https://www.indeed.com/rc/clk?jk=41b83a81a3216093&bb=10-r0rBpzhMBnWYIxB1ZJXRsNBEmKgdigMVYUzOltuvErzWkdG2ZU1writAF6NvOPwU1hP_SEmQz9upPmOA2hc5RfL5hsh4rgmB6q2KwlH-xEVPiJV7TknwZXU8qgcBn8xeL_ozI-nsa-dFzhWtRx_B_ppoN5Qvd&xkcb=SoBg67M3sVnfBoyEjh0DbzkdCdPP&fccid=d96d91f14d33cc13&vjs=3,"4350 Northern Pike Blvd
+Monroeville, PA 15146
+(724) 837-1991
+info@sescollc.com
+SESCO Enterprises, LLC is a proprietary commodities trading firm specializing in U.S. electricity markets. We leverage deep market insights and advanced quantitative analysis to drive results and contribute to the efficiency and reliability of the power grid.
+Quantitative Trading Analyst
+We are seeking a highly skilled Quantitative Trading Analyst to join our team. In this role, you will be responsible for deploying trading solutions, developing strategies, and optimizing portfolio construction in electricity markets. The ideal candidate will possess a strong background in quantitative analysis, computer science and programming, and deep research skills.
+As a Quantitative Trading Analyst, you will:
+Work to solve complex quantitative and technical problems in collaboration with a team of skilled traders and quantitative researchers.
+Work in an iterative and highly dynamic environment that encourages collaboration and continuous improvement.
+Combine software development expertise with mathematical and optimization techniques to develop statistical and simulation-based models for trading, investment decisions, and forecasting.
+Create and maintain systems that integrate structured and semi-structured data into robust models used for scenario analysis and probabilistic outcomes.
+Our Approach
+At SESCO we embrace a hacker mindset to develop elegant, efficient, and impactful solutions to real-world challenges in electricity markets.
+Problem-Solving: We thrive on solving tough problems with creativity and rigor.
+Collaboration: We value a highly collaborative environment that blends diverse expertise.
+Innovation: Electricity markets demand innovative solutions to account for incomplete information and complex dynamics.
+Qualifications
+Undergrad or master's in a technical discipline (e.g., Mathematics, Statistics, Physics, Economics, Engineering) or equivalent professional experience with progressive responsibilities.
+Strong foundation in probability and statistics, with working knowledge of machine learning techniques preferred.
+Expertise in Python and related libraries (e.g., NumPy, Pandas, SciPy, Dask, Ray, Streamlit).
+Proven ability to design and implement mathematical models and handle large, complex datasets.
+Experience managing multiple projects in a fast-paced, dynamic environment.
+Understanding of origination, trading exposure, and financial implications and familiarity with power markets preferred but not required.
+#LI-DNI #LI-DNP"
+Machine Learning Engineer,Adidev Technologies Inc,"Pittsburgh, PA 15219 
+(Middle Hill area)",,https://www.indeed.com/rc/clk?jk=33f09109d5e5c3a6&bb=10-r0rBpzhMBnWYIxB1ZJa5aIXkqeqZ1VONj72LJ3oBKGDwvb-AbndJW9q_3feTjeQxgbAd7JPlcRjhGpWHm59RN_by5_xqkhPePfrrnhk1izRbqmJMGqZDnZTbIWLeihwmx05i8hXwxLJF_FW1pVotrOsBEQLRD&xkcb=SoAu67M3sVnfBoyEjh0JbzkdCdPP&fccid=fb97ab53c1134fb9&vjs=3,"Role: Machine Learning Engineer
+(This role is open to US Citizens, Green Card holders, GC-EAD only. We do not sponsor visas.)
+
+Summary:
+Adidev is looking for an adept Machine Learning Engineer to take the helm in deploying advanced machine learning models, with a special emphasis on Generative AI. In this role, you will craft and refine AI-driven solutions, turning innovative ideas into value-adding features and services, thereby solidifying our market leadership and technological forefront for our clients.
+
+About Adidev Technologies Inc.
+
+Adidev Technologies,(www.adidevtechnologies.com) is a premier IT consulting firm delivering top-notch, Machine Learning Engineer, iOS and Android, data scientist, Developer solutions to industry giants including Delta, Google, Apple, Spotify, US Bank, FedEx, and more. We're not just a software consulting company – we're a dynamic force shaping the future of technology. Partnering with industry giants, we consistently deliver groundbreaking solutions that redefine the digital landscape. As we continue to expand our footprint, we're on the hunt for exceptional individuals who can bring their technical prowess to our team and elevate our projects to new levels of innovation.
+
+Expertise: We excel in IT consultative services and quality engineer development, with Good years of experience.
+Global Presence: Our diverse employee workforce spans four continents.
+Proven Track Record: Hundreds of Fortune 1000 and innovative startup clients with thousands of successful projects across the USA.
+
+How We'll Guide You
+
+Teaching and Development: We are dedicated to nurturing your growth and development, shaping you into an exceptional consultant capable of delivering top-tier solutions to our end clients.
+Custom Support: An array of teams, from Development Managers to Tech Subject Matter Experts, are dedicated to your success.
+Project Placement: A market-expertise team ensures you secure and thrive in projects with our esteemed clients.
+Career Growth: We facilitate industry experience to propel your technical journey forward.
+
+Key Responsibilities:
+Architect and refine sophisticated ML models and algorithms, translating complex datasets into actionable solutions.
+Engage in the full lifecycle of data modeling projects, from understanding business requirements to deployment and monitoring.
+Execute comprehensive data analysis, including preprocessing, feature engineering, and leveraging Generative AI algorithms for novel solutions.
+Lead cross-functional collaborations to integrate Generative AI models into our offerings, enhancing product capabilities and user experiences.
+Apply advanced analytical techniques to analyze vast datasets, identifying trends, anomalies, and opportunities for improvement.
+Execute data preprocessing, feature engineering, and algorithm optimization to enhance model accuracy and efficiency.
+Conduct exploratory data analysis to extract valuable insights and influence strategic decisions.
+Keep abreast of and implement the latest ML trends, tools, and best practices, including AutoML, MLOps, and interpretability frameworks.
+Promote compliance with industry standards and regulatory requirements, emphasizing ethical AI practices.
+
+Requirements:
+Degree in Computer Science, Engineering, Statistics, or a related technical field.
+Demonstrable experience in machine learning, deep learning, NLP, computer vision, reinforcement learning, and/or other AI domains.
+Demonstrable experience with Generative AI models and frameworks, such as GANs or Transformers, applied in industry settings.
+Practical experience with SQL/NoSQL databases, data visualization tools, and version control systems.
+Strong foundational understanding of algorithmic complexity and data structure optimization.
+Excellent problem-solving, collaboration, and communication abilities.
+Develop and implement cutting-edge machine learning models, with a particular focus on Generative AI applications such as text generation, image synthesis, and creative AI.
+Execute comprehensive data analysis, including preprocessing, feature engineering, and leveraging Generative AI algorithms for novel solutions.
+Stay ahead of AI research, especially in Generative AI, applying the latest findings and techniques to drive innovation within our projects.
+Proficiency in Python and ML libraries (TensorFlow, PyTorch, scikit-learn).
+Strong background in cloud computing and big data platforms (AWS, Azure, GCP), with hands-on experience in cloud-based ML services and serverless architectures.
+Familiarity with DevOps for AI, including containerization (Docker, Kubernetes), CI/CD pipelines, and MLOps practices.
+Facilitate knowledge sharing and best practices in AI/ML, particularly focusing on Generative AI, within the team.
+Ensure all AI implementations are compliant with ethical guidelines and data privacy standards.
+
+How to Apply:
+Interested candidates are invited to submit a comprehensive application, including a latest updated resume and a detailed cover letter, showcasing your expertise.
+
+Perks and Beyond!
+Competitive salary range: Based on experience and market value
+Pack your bags! Paid relocation is on us.
+Support, even from afar, with our remote assistance.
+Regular salary reviews? You betcha!
+
+Ready to Embark?
+we invite you to take this extraordinary step with us. Showcase your journey in pushing the limits of mobile engineering by submitting your resume and a curated selection of your most influential projects. At Adidev Technologies, we're dedicated to shaping your success. Join us to craft a future powered by innovation and growth.
+
+Note: Adidev Technologies Inc. is a staunch advocate of diversity and equal opportunity. We warmly welcome applications from candidates of all backgrounds, experiences, and walks of life. Your unique perspective could be the catalyst for our next revolutionary breakthrough"
+Data Engineer,PNC Financial Services Group,"Pittsburgh, PA",,https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AMofH_6zXbiqn6xehDj89HQNfpf30LHk40Y3Yl5cZTpm-EXukPQNet_K9MQV9Co4xuhwsJJ6oZ-irHoTk7Bl1QrbFEMbR1TZiX462ylRbKReiF6VBd_p5YtnPLQ9HNEf4h7f2S8_-V9wNnL_GUivjdJOg-bQYQYLW98XMBIdwuRJ2KKqYRvKqX-oH3k4QK6dyMIFT_OLJWE4_6mPPMCBMaDP2po55hIg9K-mWvRV5FH0AcXMATE2lv29awljM_mZ9T1fpyx3iNHMPAv6Lz-ROnckXtEeGJabJcTP7IolEJVYleD4eoxgqYdYcC71Przl048XHIShMuanZ2z4nRsWdi1HZe81exxIh3OVRurzac85C6TgOTX4jMKl6do4JCUpQIhAAvN8nKa3RyWgGsfZAOpaC2C1xftaL5aZvKocerafJd6cczuIrZQwD5KnzPDEccfOs35miZ-jJXcVstAbG7185TQkicV2iMQEVxhm_o5H6-7ggpq1qi8GjEpekz5lubIMBH-P3osrKkUqVb0_7NPXCoMuZC_z1Uhy9rsDu73W_j6j5nq446EKtgbdMiN-6v7EFx9skyfmlo-Zjrf24C8lBoZa7FGrxmoh2gwaAC3728sOEX-9pTf13HrOrHl8KcMjhhFlk5IVA0dtwgrisEnkmpDg8D8aHQxN41VMGXPugNUzT3fN0Qzu80B0KmSKHVXhr7bFoWi5fX0umdsFApshdE7dWSBVMXWdOUEThmpRtf0_Bx7DFxr17iPA26wX1j0_REmJsGdB8rnRi84kUmQER9UktShCKGy2_GQi4RTtFHrKMyuv285QKMjKWYeCXUkBAxdDocKBSqkk8dwKEhL6wCkvMqanC0RjXqaDx9dnFAcX65ZAe6Zf02mg11fLywBwuwvi3yiTEBmDAz9L7auBDpT2CaagANEfDPrkXX7saAG8_hwysOgnNO2ygydTPMfkVQw0waOtyALNo96EKW1Pz0LnBYznNn8JM_zcTtly_PLzLjYh4t4FKG8T9zzllKU0pobuQZ1dIDDt0TuafcGGLHFmu0ZnzJCH76fV5V36wM4Ld1RmNaCn8cs0yRvBOfg9ZP7ulgYgnPJan-3L6s41qZ95BeclrRvYcIaGPVjfZ7RNEGQ8B7AZRnRhclBvk_eqM9rV-1zjS3QxNgD3eK7wBZq2LsbJiwQoYLR2hSsYG_4DVAltsajzSzWDaZBalGEGGqPkUQ-5BVgrEk23_dDppbGirlrReFhpd1-X1lSA==&xkcb=SoBU6_M3sVnfBoyEjh0ObzkdCdPP&camk=tQsC0y0u1LpwjyZvQ6w3oQ==&p=5&fvj=0&vjs=3,"Position Overview
+
+At PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company’s success. As a(n) [position title] within PNC's [name of division] organization, you will be based in [city/state location of position].
+
+Job Profile
+
+Position Overview
+At PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company’s success. As a(n) Data Engineer within PNC's Data and Automation organization, you will be based in Strongsville OH. This position is primarily based in a location within PNC’s footprint.
+
+PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position. .
+
+PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position.
+
+Job Description
+Develops, supports and implements data services for multiple applications to meet business objectives and user requirements. Uses technical knowledge and industry experience to design, build and maintain technology solutions.
+Works closely with users, developers, operations and business partners to define data service requirements and the data preparation process development.
+Designs and builds data service infrastructure on multiple data platforms, according to key business processes and the overall workflow.
+Develops and implements data solutions for multiple applications to ensure its scalability, availability and maintainability.
+Implements data migration and transformation activities/processes to ensure the accuracy and security of data solutions.
+
+PNC Employees take pride in our reputation and to continue building upon that we expect our employees to be:
+Customer Focused - Knowledgeable of the values and practices that align customer needs and satisfaction as primary considerations in all business decisions and able to leverage that information in creating customized customer solutions.
+Managing Risk - Assessing and effectively managing all of the risks associated with their business objectives and activities to ensure they adhere to and support PNC's Enterprise Risk Management Framework.
+
+Qualifications
+
+Successful candidates must demonstrate appropriate knowledge, skills, and abilities for a role. Listed below are skills, competencies, work experience, education, and required certifications/licensures needed to be successful in this position.
+
+Preferred Skills Analytical Thinking, Competitive Advantages, Data Analytics, Data Mining, Data Science, Machine Learning
+
+Competencies Application Delivery Process, Big Data Management and Analytics, Business Intelligence, Data Analysis - Software, Data Architecture, Database Structures, Effective Communications, Problem Solving, Software Development Life Cycle
+
+Work Experience Roles at this level typically require a university / college degree, with 3+ years of relevant / direct industry experience. Certifications are often desired. In lieu of a degree, a comparable combination of education, job specific certification(s), and experience (including military service) may be considered.
+
+Education Bachelors
+
+Certifications No Required Certification(s)
+
+Licenses No Required License(s)
+
+Pay Transparency
+Base Salary: $55,000.00 – $160,000.00
+
+Salaries may vary based on geographic location, market data and on individual skills, experience, and education. This role is incentive eligible with the payment based upon company, business and/or individual performance.
+
+Application Window
+Generally, this opening is expected to be posted for two business days from 10/01/2025, although it may be longer with business discretion.
+
+Benefits
+PNC offers a comprehensive range of benefits to help meet your needs now and in the future. Depending on your eligibility, options for full-time employees include: medical/prescription drug coverage (with a Health Savings Account feature), dental and vision options; employee and spouse/child life insurance; short and long-term disability protection; 401(k) with PNC match, pension and stock purchase plans; dependent care reimbursement account; back-up child/elder care; adoption, surrogacy, and doula reimbursement; educational assistance, including select programs fully paid; a robust wellness program with financial incentives.
+
+In addition, PNC generally provides the following paid time off, depending on your eligibility: maternity and/or parental leave; up to 11 paid holidays each year; 8 occasional absence days each year, unless otherwise required by law; between 15 to 25 vacation days each year, depending on career level; and years of service.
+
+To learn more about these and other programs, including benefits for full time and part-time employees, visit Your PNC Total Rewards .
+
+Disability Accommodations Statement
+
+If an accommodation is required to participate in the application process, please contact us via email at AccommodationRequest@pnc.com . Please include “accommodation request” in the subject line title and be sure to include your name, the job ID, and your preferred method of contact in the body of the email. Emails not related to accommodation requests will not receive responses. Applicants may also call 877-968-7762 and say ""Workday"" for accommodation assistance. All information provided will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+At PNC we foster an inclusive and accessible workplace. We provide reasonable accommodations to employment applicants and qualified individuals with a disability who need an accommodation to perform the essential functions of their positions.
+
+Equal Employment Opportunity (EEO)
+
+PNC provides equal employment opportunity to qualified persons regardless of race, color, sex, religion, national origin, age, sexual orientation, gender identity, disability, veteran status, or other categories protected by law.
+
+This position is subject to the requirements of Section 19 of the Federal Deposit Insurance Act (FDIA) and, for any registered role, the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 (SAFE Act) and/or the Financial Industry Regulatory Authority (FINRA), which prohibit the hiring of individuals with certain criminal history.
+
+California Residents
+
+Refer to the California Consumer Privacy Act Privacy Notice to gain understanding of how PNC may use or disclose your personal information in our hiring practices."
+DATA / AI ENGINEER,ZAP Solutions,"Pittsburgh, PA 15212 
+(North Shore area)",,https://www.indeed.com/rc/clk?jk=2ceacb909ba01890&bb=10-r0rBpzhMBnWYIxB1ZJTWLmSrnl2Q3XkjZbGtlJb-h1PPgHXu-pFkuzXleWWYhRBFZl1wAqWK-I6HfFexKxqY_hOf7C0LXoDBVdCpUTzHHl9uDyyykwXGYmq4NRJXmmBxyXvw7nLZ-ZtKWqZzdqr5T1MKyYgdw&xkcb=SoCJ67M3sVnfBoyEjh0MbzkdCdPP&fccid=5c427e8200d57226&vjs=3,"LOCATION: Pittsburgh, PA
+START DATE: TBD
+EMPLOYMENT TYPE: Full-time
+STARTING SALARY: Negotiable
+REQUIRED EDUCATION: Bachelors Degree or Equivalent Experience
+REQUIRED EXPERIENCE: Open
+RELATED CATEGORIES: Computer Science, Information Science, Web Development, Machine Learning, AI, Predictive Models, Programming
+
+DESCRIPTION/RESPONSIBILITIES
+
+ZAP Solutions is seeking a junior to mid-level Data Engineer / AI Engineer to join our growing team. This position is ideal for someone with minimal professional experience but a strong foundation in data concepts and a passion for AI. You’ll have the opportunity to learn and grow while contributing to our data and AI solutions.
+
+Responsibilities:
+Assist in building, maintaining and optimizing data pipelines that process and transform raw data into usable “analysis/AI-ready” formats
+Support the implementation and maintenance of machine learning models and AI workflows
+Collaborate with sales, account management, software engineers, data engineers, etc. on AI/ML projects
+Document data architecture, pipelines, and processes; assist with “scale out” of AI processes
+Monitor system performance and troubleshoot issues as they arise
+
+REQUIRED SKILLS
+
+Requirements:
+1-3 years of closely related experience
+Bachelor’s degree in Computer Science, Data Science, or related field (or equivalent practical experience)
+Basic understanding of machine learning concepts
+Basic programming skills in Python (pandas, list comprehension, etc. as well as ML packages)
+Familiarity with SQL and database concepts, including feature engineering
+Exposure to cloud platforms (AWS-preferred, Azure, or GCP)
+Soft skills:
+Ability to communicate with technical and non-technical collaborators
+Project management experience: but also flexibility and composure in the face of quickly changing priorities
+Very detail oriented, accurate, and thorough
+“Pragmatic excellence” – the ability to deliver high quality work within realistic constraints while avoiding the extremes of rushed, sloppy work or perfectionist delays
+Preferred Qualifications:
+Experience with big data and distributed processing technologies (Spark, Databricks, Snowflake)
+Exposure to CI/CD practices and version control (Git), including MLFlow
+
+What we Offer:
+Mentorship from experienced data scientist
+Structured learning path and professional development opportunities
+Hands-on experience with real-world data and AI challenges
+Collaborative and innovative work environment
+Competitive salary and benefits
+
+We value enthusiasm, curiosity, and a willingness to learn over extensive experience. If you’re passionate about data and AI and eager to grow your skills in a supportive environment, we encourage you to apply.
+
+Unfortunately, we cannot offer sponsorship; employee candidates must be eligible to work in the US."
+MACHINE LEARNING ENGINEER,"Qeexo, Co.","Pittsburgh, PA","$105,000 ",https://www.indeed.com/rc/clk?jk=f529be1c093777fb&bb=10-r0rBpzhMBnWYIxB1ZJRnyrOwY4PosWcjiKMpl_CsgaRAzAKacgk5WjzxzNgNTck1xRUBnW6m-NOzxOgmESOKmgDieSzfiMMoya736qo70PrPpL3nsCWuGx-nNTahOilX1ORmL3DrRF0l3KHu1AqFwWmkK7Ibr&xkcb=SoCz67M3sVnfBoyEjh0KbzkdCdPP&fccid=68a181b72706f64f&vjs=3,"MACHINE LEARNING ENGINEER JOB DESCRIPTION
+**This position is for our Pittsburgh, PA office - only apply if you are based there or willing to relocate**
+At TDK SensEI, we are transforming how industrial customers utilize and interact with sensor data. We specialize in developing advanced AI solutions capable of running directly on edge devices. By processing data locally, TDK SensEI enhances real-time decision-making, privacy, security, and cost efficiency. Our offerings include automated machine learning tools, AI-powered condition-based monitoring systems, and various sensor devices optimized for low latency and power consumption. Collaborating with leading global companies, we empower teams to effortlessly devise and implement machine learning solutions for industrial applications, all without the need for coding.
+We are looking for a machine learning expert who loves working with sensor data, loves developing novel algorithms, is not afraid of challenging, open-ended problems, and wants to help us shape the future of machine learning in industrial settings. You will be working with a highly capable team of machine learning engineers and will have the opportunity to make a meaningful impact on the growth of a burgeoning industry.
+As a Machine Learning Engineer, your responsibilities will include:
+Researching and implementing new machine learning techniques for use in TDK SensEI products
+Creating machine learning solutions for new applications from start to finish: from formulation of the problem to a commercial-grade solution
+Designing, writing, and maintaining software supporting TDK SensEI’s machine learning pipeline and research codebase
+Designing and executing experiments to advance our understanding of machine learning with time-series sensor data and related techniques
+Ideal Candidate
+Deep knowledge of statistical and machine learning approaches and problem domains
+Machine Learning/Computer Science/Electrical Engineering background with strong coding ability and proficiency with Python or other OOP language
+Proven success with multiple ML/AI/classification projects (research papers, open-source implementations, etc.)
+Expertise in one or more specific areas of research: automated machine learning, anomaly detection, condition monitoring, predictive maintenance, neural nets, deep learning, signal processing, digital imaging, ensemble learning, and system identification
+Research-minded, ability to run experiments independently and present results to leadership and external clients
+Experience working with Gen AI applications
+Experience with model quantization/compression techniques
+Comfortable working in a terminal environment, writing scripts (Bash/Python) to process data and implement algorithms
+Experience with embedded programming
+Experience in sensor platforms with microcontroller units
+
+Skills & Requirements:
+Machine Learning (expert; at least 2-3 years industry experience and/or Master’s degree in relevant field)
+Python or other modern OOP language (proficient)
+Data Structures and Algorithms (proficient)
+Deep Learning (proficient)
+Ensemble Modeling/Classification (proficient)
+Data Structures and Algorithms (familiar)
+Signal Processing (familiar)
+Some travel may be required
+US Work Authorization required
+Bonus Qualifications
+Experience building machine learning pipelines
+Experience with Docker and AWS
+Experience with large-scale data processing tools like Apache Spark
+Significant work experience deploying production machine learning models with industrial customers"
+Research Scientist,Oculus,"Pittsburgh, PA","$147,000 - $208,000",https://www.indeed.com/rc/clk?jk=74df39ab197ab579&bb=10-r0rBpzhMBnWYIxB1ZJZ38mKxy_SjQI90O3ve-ZNWM1kH6tZb61p7m5kVq8EsDC7ebjEb0AWv9ibhWv5PSwaJRHbvQjNWYLHTZV0q1Rs9z5lj9q6kobzjtcsmsiAVn1JwkQFRo2_ni_uqg0vlYD-ZbSx7Ipe7N&xkcb=SoBa67M3sVnfBoyEjh0FbzkdCdPP&fccid=ba07516c418dda52&vjs=3,"In XRCIA, we aspire to achieve a vision of social presence in VR and AR where people are enabled to interact with each other across distances in a way that is indistinguishable from in-person interactions. We are looking for exceptional researchers who are excited about designing and implementing models that transform partial human information into realistic VR representations.As a Research Scientist, you will pursue research, and work with other Computer Vision and Machine Learning Researchers and Engineers to build the foundations of social presence technology. You will be exposed to facilities, algorithms, and data that are years ahead of anything else in existence today. We want people who seek both the best quality and widest reach in their work.
+
+
+Research Scientist Responsibilities:
+Develop state-of-the-art algorithms and models that can transform information deficient inputs (e.g. cameras with limited visibility, pose, text, audio) into indistinguishable-from-reality VR representations (e.g. faces, bodies, hair, clothes, motion)
+Collaborate with other teams to push the research that enables mid to long-term products
+Publish research results in top-tier journals and at leading international conferences
+
+
+
+Minimum Qualifications:
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
+Currently has or is in the process of obtaining a PhD degree and/or postdoctoral assignment in the field of computer vision, computer graphics, machine learning or a related field
+Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta
+First author publications in computer vision, machine learning or computer graphics peer-reviewed conferences (e.g. CVPR, ECCV, ICCV, NeurIPS, ICLR, or SIGGRAPH, etc.)
+Experience with realistic 3D geometry/apperance estimation/generation or motion modeling
+Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment
+
+
+
+Preferred Qualifications:
+Experience with generative models such as Diffusion Models, GANs or VAEs for image and geometry generation.
+3+ years of experience with prototyping algorithms in Python.
+Proven track record of achieving significant research results as demonstrated by grants, fellowships and/or patents.
+Demonstrated software engineer experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub).
+Experience with Neural Radiance Fields, Visual Transformers or Large Language Models.
+
+
+
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+
+$147,000/year to $208,000/year + bonus + equity + benefits
+
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta."
+,,,,https://www.indeed.com/viewjob?jk=fedcba9876543210,None
