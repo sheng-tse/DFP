@@ -1,3 +1,10 @@
+# Comment: The extraction performance (extract) of the LLM is good, but it is extremely time-consuming.
+# Tested on 15 records, it took 800+ seconds.
+
+
+
+
+
 from openai import OpenAI
 import pandas as pd
 import sys
