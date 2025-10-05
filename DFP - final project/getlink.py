@@ -1,3 +1,5 @@
+# preparing for getskills.py
+
 import time
 import csv
 import os
