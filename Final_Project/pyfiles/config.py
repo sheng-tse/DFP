@@ -11,6 +11,9 @@ import csv
 import pandas as pd
 from datetime import datetime
 
+# Create safe print
+print_lock = Lock()
+
 # Timing configurations (in seconds)
 PAGE_LOAD_MIN = 3
 PAGE_LOAD_MAX = 5

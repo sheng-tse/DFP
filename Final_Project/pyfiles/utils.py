@@ -65,7 +65,6 @@ def create_driver():
 
     return driver
 
-
 def safe_print(message):
     """
     Thread-safe print function

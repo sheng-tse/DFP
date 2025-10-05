@@ -33,7 +33,7 @@ driver = create_driver()
 # Store all job records
 records = []
 next_page_url = None
-
+print_lock = Lock()
 try:
     for page_num in range(num_pages):
         current_page = start_page + page_num
