@@ -1,3 +1,8 @@
+# Since current NLP and LLM approaches have certain flaws (in both performance and accuracy)
+# I am currently exploring alternative data sources or extraction methods.
+
+
+
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
