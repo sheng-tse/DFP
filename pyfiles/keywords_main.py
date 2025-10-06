@@ -3,9 +3,10 @@ from resume_parser import ResumeParser
 from keyword_suggester import KeywordSuggester
 from resume_scorer import ResumeScorer
 
+
 def main():
     # --- User input ---
-    file_path = input("Upload your resume file path: ").strip('"')
+    file_path = input("Upload your resume file path: ").strip("\"'")
     job_title = input("Enter the job title you're targeting: ")
 
     # --- Parse resume ---
@@ -44,7 +45,8 @@ def main():
         print("-", kw)
 
     # --- Score resume ---
-    keyword_score, format_score, sections_present = ResumeScorer.score_resume(resume_text, keywords)
+    keyword_score, format_score, sections_present = ResumeScorer.score_resume(
+        resume_text, keywords)
 
     print(f"\n Resume Scores:")
     print(f"Keyword coverage: {keyword_score:.1f}%")
@@ -53,6 +55,8 @@ def main():
     print("Formatting sections present:")
     for section, present in sections_present.items():
         print(f"- {section.replace('_', ' ').title()}: {'Yes' if present else 'No'}")
+
+    return job_title
 
 
 if __name__ == "__main__":

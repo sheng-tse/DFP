@@ -1,15 +1,19 @@
 import config
 import utils
+import keywords_main
 
-# Job search parameters
-job_title = input("Enter job title: ")
-city = input("Enter city: ")
-state = input("Enter state: ")
+jt = keywords_main.main()
+
+job_title = jt
+print("\n" * 8)
+print("You are directing to indeed job search based on your interest earlier. ")
+city = input("Enter city for job search: ")
+state = input("Enter state for the city you choose: ")
 
 # Pagination settings
 start_page_input = input(
-    "Enter starting page (0 for first page, 1 for second page, etc.): ")
-start_page = int(start_page_input) if start_page_input.strip() else 0
+    "Enter starting page: ")
+start_page = (int(start_page_input) - 1) if start_page_input.strip() else 0
 print(f"Starting from page {start_page + 1}")
 
 pages_input = input("Enter number of pages to scrape (default 1): ")
@@ -18,22 +22,23 @@ print(f"Will scrape {num_pages} pages")
 
 # Threading settings
 threads_input = input(
-    f"Enter number of parallel threads (default {DEFAULT_THREADS}, max {MAX_THREADS}): ")
-max_workers = int(threads_input) if threads_input.strip() else DEFAULT_THREADS
-max_workers = min(max_workers, MAX_THREADS)
+    f"Enter number of parallel threads (default {config.DEFAULT_THREADS}, max {config.MAX_THREADS}): ")
+max_workers = int(threads_input) if threads_input.strip(
+) else config.DEFAULT_THREADS
+max_workers = min(max_workers, config.MAX_THREADS)
 print(f"Using {max_workers} parallel threads")
 
 # Generate initial URL
-url = get_url(job_title, city, state, start_page)
+url = utils.get_url(job_title, city, state, start_page)
 print(f"\nSearch URL: {url}")
 
 # Setup WebDriver
-driver = create_driver()
+driver = utils.create_driver()
 
 # Store all job records
 records = []
 next_page_url = None
-print_lock = Lock()
+print_lock = config.Lock()
 try:
     for page_num in range(num_pages):
         current_page = start_page + page_num
@@ -48,17 +53,19 @@ try:
             if next_page_url:
                 driver.get(next_page_url)
             else:
-                url = get_url(job_title, city, state, current_page)
+                url = utils.get_url(job_title, city, state, current_page)
                 driver.get(url)
 
         # Wait for page to load
-        time.sleep(random.randint(PAGE_LOAD_MIN, PAGE_LOAD_MAX))
-        WebDriverWait(driver, WEBDRIVER_TIMEOUT).until(
-            EC.presence_of_element_located((By.CLASS_NAME, "job_seen_beacon"))
+        config.time.sleep(config.random.randint(
+            config.PAGE_LOAD_MIN, config.PAGE_LOAD_MAX))
+        config.WebDriverWait(driver, config.WEBDRIVER_TIMEOUT).until(
+            config.EC.presence_of_element_located(
+                (config.By.CLASS_NAME, "job_seen_beacon"))
         )
 
         # Find all job postings
-        posts = driver.find_elements(By.CLASS_NAME, "job_seen_beacon")
+        posts = driver.find_elements(config.By.CLASS_NAME, "job_seen_beacon")
         print(f"Found {len(posts)} jobs on page {current_page + 1}")
 
         # Phase 1: Collect basic info quickly
@@ -66,7 +73,7 @@ try:
         job_basics = []
         for i, post in enumerate(posts):
             print(f"  Collecting job {i + 1}/{len(posts)}...", end="\r")
-            basic_info = get_job_basic_info(post)
+            basic_info = utils.get_job_basic_info(post)
             if basic_info:
                 job_basics.append(basic_info)
 
@@ -77,10 +84,10 @@ try:
         if page_num < num_pages - 1:
             try:
                 next_button = driver.find_element(
-                    By.CSS_SELECTOR, "a[data-testid='pagination-page-next']")
+                    config.By.CSS_SELECTOR, "a[data-testid='pagination-page-next']")
                 next_page_url = next_button.get_attribute("href")
                 print(f"✓ Next page URL saved")
-            except NoSuchElementException:
+            except config.NoSuchElementException:
                 print("⚠ No next page button found")
 
         # Close browser to avoid detection
@@ -90,22 +97,22 @@ try:
         # Phase 2: Fetch descriptions in parallel
         print(
             f"\nPhase 2: Fetching job descriptions ({max_workers} parallel threads)...")
-        start_time = time.time()
+        start_time = config.time.time()
 
-        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        with config.ThreadPoolExecutor(max_workers=max_workers) as executor:
             future_to_job = {
-                executor.submit(process_job_with_description, job_data, i, len(job_basics)): job_data
+                executor.submit(utils.process_job_with_description, job_data, i, len(job_basics)): job_data
                 for i, job_data in enumerate(job_basics)
             }
 
-            for future in as_completed(future_to_job):
+            for future in config.as_completed(future_to_job):
                 try:
                     record = future.result()
                     records.append(record)
                 except Exception as e:
-                    safe_print(f"Error processing job: {e}")
+                    utils.safe_print(f"Error processing job: {e}")
 
-        elapsed_time = time.time() - start_time
+        elapsed_time = config.time.time() - start_time
         print(
             f"\n✓ Completed {len(job_basics)} jobs in {elapsed_time:.2f} seconds")
         print(f"  Average: {elapsed_time/len(job_basics):.2f} seconds per job")
@@ -114,8 +121,9 @@ try:
         # Create new driver for next page
         if page_num < num_pages - 1 and next_page_url:
             print("\nPreparing for next page...")
-            driver = create_driver()
-            time.sleep(random.randint(PAGE_SWITCH_MIN, PAGE_SWITCH_MAX))
+            driver = utils.create_driver()
+            config.time.sleep(config.random.randint(
+                config.PAGE_SWITCH_MIN, config.PAGE_SWITCH_MAX))
         elif page_num < num_pages - 1:
             print("⚠ No next page available, stopping pagination")
             break
@@ -149,8 +157,8 @@ print("Next step: Run save_data.ipynb to export your data")
 print(f"{'='*80}")
 
 if records:
-    df = pd.DataFrame(records, columns=[
-                      "Title", "Company", "Location", "Salary", "URL", "Description"])
+    df = config.pd.DataFrame(records, columns=[
+        "Title", "Company", "Location", "Salary", "URL", "Description"])
 
     print("\n" + "="*80)
     print("DATA QUALITY REPORT")
@@ -168,3 +176,9 @@ if records:
     print(df['Location'].value_counts().head())
 
     print("\n" + "="*80)
+
+option = int(input(
+    "Enter save option (0=CSV, 1=JSON, 2=Excel, 3=All, 4=Quit): "
+))
+
+utils.save_data(records, option, job_title)

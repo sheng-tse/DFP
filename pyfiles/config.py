@@ -10,6 +10,7 @@ from threading import Lock
 import csv
 import pandas as pd
 from datetime import datetime
+import json
 
 # Create safe print
 print_lock = Lock()
