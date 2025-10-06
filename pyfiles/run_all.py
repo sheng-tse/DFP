@@ -21,6 +21,8 @@ DEBUG_DIR = Path("debug_dump")
 DEBUG_DIR.mkdir(exist_ok=True)
 
 # -------------- UTILITIES -----------------
+
+
 def looks_like_regions_dict(obj: Any) -> bool:
     """
     Heuristic: a big dict whose values are dicts containing
@@ -39,6 +41,7 @@ def looks_like_regions_dict(obj: Any) -> bool:
         if pct_keys.issubset(keys) and (name_keys & keys):
             good += 1
     return good >= max(1, len(sample_values) // 3)
+
 
 def parse_regions_from_dict(d: Dict) -> pd.DataFrame:
     rows = []
@@ -64,6 +67,7 @@ def parse_regions_from_dict(d: Dict) -> pd.DataFrame:
     if "rank" in df.columns:
         df = df.sort_values("rank", na_position="last")
     return df
+
 
 def try_live_scrape() -> Optional[pd.DataFrame]:
     """
@@ -134,6 +138,7 @@ def try_live_scrape() -> Optional[pd.DataFrame]:
 
     return None
 
+
 def try_from_debug_dump() -> Optional[pd.DataFrame]:
     """
     Fallback: read any json_*.json previously captured in debug_dump/
@@ -158,6 +163,7 @@ def try_from_debug_dump() -> Optional[pd.DataFrame]:
             elif isinstance(cur, list):
                 stack.extend(cur)
     return None
+
 
 def save_charts(df: pd.DataFrame) -> None:
     """
@@ -189,7 +195,8 @@ def save_charts(df: pd.DataFrame) -> None:
     )
     # Order regions by median descending
     order = top10["region_name"].tolist()
-    long["region_name"] = pd.Categorical(long["region_name"], categories=order, ordered=True)
+    long["region_name"] = pd.Categorical(
+        long["region_name"], categories=order, ordered=True)
     long = long.sort_values(["region_name", "percentile"])
 
     # Plot grouped bars
@@ -199,7 +206,8 @@ def save_charts(df: pd.DataFrame) -> None:
     x = range(len(order))
     width = 0.15
     for i, p in enumerate(percentiles):
-        series = long[long["percentile"] == p].sort_values("region_name")["comp"].values
+        series = long[long["percentile"] == p].sort_values("region_name")[
+            "comp"].values
         xs = [xi + (i - 2)*width for xi in x]
         plt.bar(xs, series, width=width, label=p)
     plt.xticks(x, order, rotation=30, ha="right")
@@ -209,6 +217,7 @@ def save_charts(df: pd.DataFrame) -> None:
     plt.tight_layout()
     plt.savefig("chart_percentile_bars.png", dpi=200)
     plt.close()
+
 
 def main():
     # 1) Try live scrape
@@ -224,8 +233,8 @@ def main():
         sys.exit(2)
 
     # Clean up columns & save CSV
-    keep = ["region_id","region_name","detailed_location","rank",
-            "p10","p25","p50","p75","p90","normalizedMedian","url"]
+    keep = ["region_id", "region_name", "detailed_location", "rank",
+            "p10", "p25", "p50", "p75", "p90", "normalizedMedian", "url"]
     for col in keep:
         if col not in df.columns:
             df[col] = None
@@ -241,6 +250,7 @@ def main():
         print(" - chart_percentile_bars.png")
     except Exception as e:
         print("Charts step skipped due to error:", e)
+
 
 if __name__ == "__main__":
     main()
