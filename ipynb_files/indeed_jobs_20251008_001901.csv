@@ -1,0 +1,503 @@
+Title,Company,Location,Salary,URL,Description
+"Sr. Machine Learning - Compiler Engineer III, AWS Neuron, Annapurna Labs",Amazon.com Services LLC,"Cupertino, CA 95014","$151,300 - $261,500 a year",https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DiR_L9Yk1BWFWbfTFdXbTUvRWK-3b4thi9OwmTROImgD83jGPuKhrYjJtFmyn64A8nI75qeq1cRzI79ybE4vrO6Wd8Ydh-nWUs1veq5osV8fJuiQv1anm7CzS4sYWxekKV3QmHozIS7cI3mGk9lVvXU_T3h0mxWQ-u1O02HtlRHU3ekuY4eGEqLG3xGQq9aX0hEKocm6TWbq0EoFP5YYygapX9BkmcMq5diZKVfpGCPdIkF3ZJy0d6PyBsTm32G2fSFGRI275ydag_ZddoI7AJazfQfkcN4DMoR4ZwpptS9R9iuq46HScT_7hZt-n9q36UL_PFtApmXQKpSZHlwyXFU79b3NEe7ECEyUip28i4eh0lFODhNxxJ86SGNNYEb9znrF7W8uedpaQ9f2AJASuqWC-1kr0C9w8wGvEq0HUwJsv91DMG0dhrl_R7oW4tQoZNk8Z-idUr09MrZaV1aEKpsNiSmypDlqOpyzMx51nJ-fMWF_OIhTcToXHVp2VZd3QquIArSPIkaPDCYT61a3PP-Y6vzenkblU5XcBO6KPqhwp2oVpO0L96w5HQuQNuIeYdLerU8k9Mou8DHYl-lL4bagiB_hGlpTNJ3VS48TwkcsiRXrAkRtMh3_N2VL4HdB6clgmmsKxQYYjUdmisLaBJwDMNM-Ew0L6vlvyVJjbWKQ==&xkcb=SoAb6_M3sg1RUTyJXx0abzkdCdPP&camk=UoKtGZLa3XJXsooA0DM0Mg==&p=6&fvj=0&vjs=3,"The Product: AWS Machine Learning accelerators are at the forefront of AWS innovation and one of several AWS tools used for building Generative AI on AWS. The Inferentia chip delivers best-in-class ML inference performance at the lowest cost in cloud. Trainium will deliver the best-in-class ML training performance with the most teraflops (TFLOPS) of compute power for ML in the cloud. This is all enabled by cutting edge software stack, the AWS Neuron Software Development Kit (SDK), which includes an ML compiler, runtime and natively integrates into popular ML frameworks, such as PyTorch, TensorFlow and MxNet. AWS Neuron and Inferentia are used at scale with customers like Snap, Autodesk, Amazon Alexa, Amazon Rekognition and more customers in various other segments.
+
+The Team: As a whole, the Amazon Annapurna Labs team is responsible for silicon development at AWS. The team covers multiple disciplines including silicon engineering, hardware design and verification, software and operations.
+
+The AWS Neuron team works to optimize the performance of complex neural net models on our custom-built AWS hardware. More specifically, the AWS Neuron team is developing a deep learning compiler stack that takes neural network descriptions created in frameworks such as TensorFlow, PyTorch, and MXNET, and converts them into code suitable for execution. As you might expect, the team is comprised of some of the brightest minds in the engineering, research, and product communities, focused on the ambitious goal of creating a toolchain that will provide a quantum leap in performance.
+
+You: As a Sr. Machine Learning Compiler Engineer III on the AWS Neuron team, you will be a thought leader supporting the ground-up development and scaling of a compiler to handle the world's largest ML workloads. Architecting and implementing business-critical features, publish cutting-edge research, and mentoring a brilliant team of experienced engineers excites and challenges you. You will leverage your technical communications skill as a hands-on partner to AWS ML services teams and you will be involved in pre-silicon design, bringing new products/features to market, and many other exciting projects. A background in Machine Learning and AI accelerators is preferred, but not required.
+
+In order to be considered for this role, candidates must be currently located or willing to relocate to Cupertino (perferred), Seattle, Austin, or Toronto.
+
+About the team
+Inclusive Team Culture
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 16 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Work/Life Balance
+Our team puts a high value on work-life balance. It isn’t about how many hours you spend at home or at work; it’s about the flow you establish that brings energy to both parts of your life. We believe striking the right balance between your personal and professional life is critical to life-long happiness and fulfillment. We offer flexibility in working hours and encourage you to find your own balance between your work and personal lives.
+
+Mentorship & Career Growth
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded professional and enable them to take on more complex tasks in the future.
+BASIC QUALIFICATIONS
+5+ years of non-internship professional software development experience
+5+ years of programming with at least one software programming language experience
+5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+Experience as a mentor, tech lead or leading an engineering team
+PREFERRED QUALIFICATIONS
+Bachelor's degree in computer science or equivalent
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site."
+AI Agent Engineer,Tessera Labs,"San Jose, CA","$200,000 - $230,000 a year",https://www.indeed.com/rc/clk?jk=a1f6c5b93ec57067&bb=cNkGSMSyTFBvJXrJ_zGjrWSwr-ATxfakQz1sLI6NVe2Dxc8ETVMb7O4AtuxSTzHS9-nXZULWmEb7JR-s0iahWO3wyreadMtzu-e_sWMa-CB5mkO24XxZTJY6k8G3ncU_VQkFZxDTcCD6-DR_8coCMA%3D%3D&xkcb=SoCI67M3sg1RUTyJXx0SbzkdCdPP&fccid=dd616958bd9ddc12&vjs=3,"Job Summary
+As we build to the next level, we’re looking for a top-quality AI engineer with a strong focus on AI agents - someone who knows how to leverage LLMs, both open-source and closed, in combination with complex tool-calling hierarchies and operational patterns.
+This is an opportunity to build scalable, secure, and high-impact AI technologies for the future of enterprise. If you thrive in high-growth, fast-moving environments and are passionate about AI, ML, and AI agents, we want to hear from you.
+Key Responsibilities
+1. AI Agent Building (60%)
+Develop complex multi-step agentic pipelines around open- and closed-source LLMs.
+Build tools enabling AIs to interact with critical enterprise software platforms.
+Ensure AI designs align with business objectives and industry best practices.
+2. ML development and fine-tuning (30%)
+Create data generation and processing pipelines to train and fine-tune custom ML models.
+Implement and manage training and evaluation pipelines for LLMs.
+3. Deployment and AI Systems Infrastructure (10%)
+Manage AI infrastructure across platforms such as AWS, Azure, or GCP.
+Deploy inference endpoints and serve AI and LLM technologies as part of our core product infrastructure.
+Required Qualifications
+Earned a Bachelor’s degree, Master's degree or Ph.D. in Computer Science, Engineering, or a related field.
+3+ years of experience in software engineering, platform engineering, or related roles.
+Proven expertise in AI model building and agent development.
+Strong background in ML and LLM-driven systems development.
+Experience with compound AI systems, vector databases, and tool-calling AIs.
+Excellent problem-solving skills and the ability to work in a fast-paced, collaborative environment.
+Preferred Qualifications
+Experience building & deploying production-grade, large-scale AI applications.
+Familiarity with AI deployment, evaluation, and monitoring practices.
+Strong communication skills with the ability to articulate complex technical concepts to non-technical stakeholders.
+Join the Future of AI at Tessera Labs
+We're looking for someone who enjoys building reliable, scalable systems that help teams move faster. If you take pride in cutting-edge AI, value clear ownership, and want to have a meaningful impact in a fast-moving environment, you’ll fit right in.
+Compensation Range: $200K - $230K"
+Machine Learning Principal Architect,ASAP Talent Services,"Redwood City, CA","$215,000 - $265,000 a year",https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DHI1vF7balv0X-ugXSEe-sgI9b00PJ0PeA-a_PxI3gSD4gpFFs1HWLX1QyJbvSa18nC2QoIoUpx1pbFIWLpiVVPSOuyiF4Bsa8QR9nW9W4HZQBSkcAE6D9eAhU9jahWk8D_5dCWq25GB7-LOHbYg-ForR2RL8s7LDKyVl-nwvG-lN2rNe0DTAra2ykOd7oEcz3emIoPZYb97rr2nwpFyISeE0-Lu_AABqKxup2R6G-anPDJSiZep6irjLtXwFJAy2bvovz_3PIblW34nezcrzTA4AZGFaTYSciIdYsWu9751u-4MAjdiEoxTALz8ZoBWojUckYG_6P1L6jiUAp9FqXkqqeJri07u8U47XXPa2Gi3MSsur6I9MBG7jJpDXT87LE6Dx-0qTclbm7BamQQuwrGKO7JSy0O5QlWKyf8YtZHSGKD8Vit1UVycdGZXJVZ0uK7ImTEpQ4yJFxdpDnETf2raSM62ROeWoGsoTbIdA2JuVfK6iaDI0BJjwMvbReX7wIkCXvIkvJnbjhvu6VJa9tZsYAM_c5PtnftYE8hyfq3DpuN5xizg3Mk2XA08jNILgz9c9CvV5uayRNJvnPREQx8jNqke8OBv-ckiuLNXJqbAPDQxiLwMCmYuqEgwBHdL5JmMeN8Pwp4RZpCRMSA6dP-cplxlVbOtrdJClUddPDMqpHaDdwgL9jjQWk0hnUNaDx1mPg0LwhKj3IMyan7FUbXGr9o1oDW6SxuofUz0UI06kksOr4wvJ6s39WiBByHLoosaGjVazNkyS2hPY_GkUihcITb6WGb_5rxqZ1VhpM2HVgIpcD3IgEYxcl-wNmq3MvngmalIOAPA==&xkcb=SoCI6_M3sg1RUTyJXx0EbzkdCdPP&camk=K7-e73aWzlio7N3X7jhusQ==&p=5&fvj=0&vjs=3,"Description
+Location: San Francisco, Bay Area, Melo Park
+ASAP Talent Services is a leading I.T. executive search firm. Our recruiting team has been retained by a late-stage Pre-IPO SaaS business to help scale their team near Menlo Park. If you'd like to grow with a company that is approaching $100M ARR - a firm that has raised over $500M in PE funding (including Blackrock and others) - we need to talk!
+2 Openings - see side by side look at 1 Architect (Navigation focused for Robotics) and 1 ML Architect.
+Job Overview
+As a Principal Architect, you will lead the design and evolution of intelligent, scalable systems for Multi-Agent Path Finding (MAPF). You’ll define architectural direction, integrate machine learning and reinforcement learning, and build the core capabilities required to achieve safe, efficient, and autonomous decision-making at scale.
+Key Responsibilities
+Architect distributed systems to support real-time path planning of multi-agent using Machine Learning.
+Lead design and implementation of ML model pipelines, including data ingestion, training, validation, deployment, and monitoring.
+Own production deployment of ML/RL models using MLOps tools such as Vertex AI or similar platforms.
+Integrate ML pipelines with robotic orchestration engines to support continuous learning and adaptation.
+Collaborate closely with software, robotics, product, and operations teams to align system goals with real-world fulfillment challenges.
+Required Qualifications
+Education: B.E/M.S in Computer Science, AI/ML, or a related field.
+Experience: 12+ years of total experience (7+ years of experience in system architecture & AI/ML ; including 2+ years in technical leadership roles).
+Technical Expertise
+Strong knowledge of path planning, graph search algorithms, and optimization techniques for multi-agent systems.
+Deep understanding of machine learning, deep learning, and reinforcement learning, with experience using TensorFlow or PyTorch.
+Proven experience in building, deploying, and maintaining ML models in production environments.
+Hands-on experience with MLOps, including CI/CD for models, pipeline orchestration, and model monitoring.
+Proficiency in Python. Familiarity with Erlang, Elixir, Gleam or other concurrency-first functional programming languages is good to have.
+Solid understanding of concurrency, parallelism, and real-time systems.
+Strong CS fundamentals including algorithms, operating systems, networking, memory management, and performance tuning.
+Experience with distributed systems, microservices, and containerized deployments using Docker and Kubernetes.
+Knowledge of event-driven architectures
+Familiarity with cloud platforms such as Google Cloud Platform (GCP), and specifically Vertex AI.
+(Nice to Have) - Contributions to open-source projects, research publications, or patents in MAPF, RL, or distributed AI systems.
+Any experience in Robotics, Autonomous Vehicles or Drone Tech is desired
+
+Published
+09/24/2025
+Location
+Redwood City, CA
+Category
+Data-driven Science Information Technology Software Design & Development
+Job Type
+Full-time Home Office w/Travel
+Salary
+$215,000 - $265,000+ (DOE)
+Experience level
+Individual Contributor
+Workplace Type
+Hybrid
+Employment Type
+Full-Time
+Mark as Monthly Job Spotlight
+Mark as Monthly Job Spotlight"
+ML Engineer,Prospance Inc,"Fremont, CA 94536 
+(Niles area)",$70.78 - $80.15 an hour,https://www.indeed.com/rc/clk?jk=9cebc318ece9611e&bb=cNkGSMSyTFBvJXrJ_zGjreWWzPS-dbKx26ZJHIzSEIx_81Wxw0SCfcU3thh-428lDzECfV5E6czqIA61olo849-0KHyCSeyHPwgejfYRqm4VbZKlBczJZQmAsRBqYYoJPYfMUZlfqKkG2o7o5MMoPg%3D%3D&xkcb=SoDG67M3sg1RUTyJXx0YbzkdCdPP&fccid=d9ff0d7fd00093cd&cmp=Prospance-Inc&ti=Ai%2Fml+Engineer&vjs=3,"Job Description:
+Serve as a member of the factory software machine learning and computer vision team. Design, develop and implement critical machine learning models that operate on our factory and warehouse environments. Take ambiguous problem statements and build end-to-end models using a variety of techniques and tools like supervised learning, convolutional neural networks, Pytorch, Pandas, etc. Work closely with partners in production, process, controls, quality, etc. to build solutions for the hardest problems faced in our operations. Will take ownership of models in production and ensure there is proper alerting systems in place to rapidly deal with any issues that occur. Must be able to clean and deal with diverse and heterogeneous data sets that combine many modalities like images, multi-spectral sensor outputs, voice, text, and tabular data.
+Minimum Requirements:In-depth knowledge of Python for high-performance data-intensive applications.Familiarity with at least one modern deep learning framework (Pytorch, Jax, Tensorflow, etc.)Expertise in one or more areas like computer vision, large language models, recommender systems, or operations research.Foundational knowledge of statistics for comparing models and assessing solution feasibility and performance.Real-world experience deploying and maintaining production machine learning use-cases.Passion for clean code and sustainable modular code for taking research ideas into production.
+Job Type: Contract
+Pay: $70.78 - $80.15 per hour
+Expected hours: 40 per week
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Work Location: In person"
+Senior Machine Learning Engineer,TETRAMEM INC,"San Jose, CA 95131 
+(North Valley area)","$110,000 - $300,000 a year",https://www.indeed.com/rc/clk?jk=08a19faaec27d166&bb=cNkGSMSyTFBvJXrJ_zGjrcRrtG3lWM8CZEY90qKuPh6-6Dbs-TBzhFdUEYeURB5AB7JDGxSpD61D8-xKrCJh4Fue1qawcj55gGDDvPe2KmaLKHF59Jl5Ul03-SaMenWXm6KJKbvx_ABPsYf3Y4I2Yg%3D%3D&xkcb=SoCV67M3sg1RUTyJXx0LbzkdCdPP&fccid=781e9c6ab28d76a7&vjs=3,"Responsibilities:
+Develop, optimize, and deploy lightweight machine learning models for edge AI applications, particularly for audio processing.
+Implement and optimize ML models on embedded platforms, including FPGA and custom ASIC solutions.
+Work closely with hardware and software teams to integrate ML models into production systems.
+Research and implement state-of-the-art ML techniques to enhance model efficiency, latency, and power consumption for embedded AI applications.
+Improve inference efficiency and model compression techniques, including quantization, pruning, and knowledge distillation.
+Collaborate with cross-functional teams to drive innovation and contribute to the overall system architecture.
+Provide technical leadership and mentorship to junior engineers.
+Publish research findings, present at conferences, and contribute to open-source projects when applicable.
+
+
+
+Requirements:
+5+ years of experience or PhD in Computer Science, Electrical Engineering, or related fields.
+Strong experience in machine learning, with a focus on edge AI and lightweight model deployment.
+Expertise in ML frameworks such as PyTorch, TensorFlow, JAX.
+Proficiency in programming languages such as C/C++, Python, and experience with ML model optimization.
+Ability to work independently and collaboratively in a fast-paced startup environment.
+
+
+
+Experience in one or more of the following areas considered a strong plus:
+Understanding of ML compiler and runtime design.
+Experience working with tools such as Optimum, ONNX, TensorRT, TFLite/LiteRT, ncnn, or CoreML.
+Familiarity with hardware acceleration techniques.
+Experience in embedded system development.
+Salary Range: $110,000 - $300,000 / year"
+"Director, Machine Learning",Syntiant,"Redwood City, CA","$225,000 - $275,000 a year",https://www.indeed.com/rc/clk?jk=a78cb53ea8a8d179&bb=cNkGSMSyTFBvJXrJ_zGjrcKOIr4CT2D55yBM4CYS0eC5IPgX0cDkL1-RQbsVK5OEWSkYk79LcLiOvFsAe_DzDbCoL7tYhCThn2rpAKGxOV_TJxC0fuqpM_NZH0ulN_MSiJ6T1Dfv2PxhB-hVjWKA5A%3D%3D&xkcb=SoAv67M3sg1RUTyJXx0XbzkdCdPP&fccid=e1239a9fd7ebe37e&vjs=3,"Summary Description:
+Syntiant Corp., a leader in the high-growth AI software and semiconductor solutions space, is looking for an experienced and talented Director of Machine Learning to take on a critical role with expansive responsibilities to enhance the Machine Learning function in a growing organization.
+The Director of Machine Learning will be responsible in shaping the technical direction and culture of a team specializing in audio, vision, and language ML at the edge. We are seeking a leader that takes a hands-on approach to technical challenges, capable of translating the latest technologies and academic research into accurate and robust solutions. This position must be able to manage and mentor a technical team as well as collaborate with other groups within the company.
+Specific Duties and Responsibilities:
+Develop state-of-the-art machine learning models for audio, computer vision, and language applications.
+Manage, mentor, and support team members, giving regular advice and feedback and fostering a collaborative and innovative environment.
+Allocate resources and manage project schedules to meet milestones and enhance team productivity.
+Act as a subject matter expert, keeping current with industry trends, emerging technologies, and academic research. Clearly communicate complex technical concepts to both technical and non-technical audiences.
+Lead the design, implementation, and evaluation of new models, algorithms, and tools. Encourage and facilitate rapid prototyping, benchmarking, and integration of new solutions.
+Collaborate with stakeholders, product managers, and other engineering teams to define technical requirements.
+Deliver production-ready solutions within tight timeframes.
+Foster best practices within the team for model analysis, code quality, and software deployment.
+Requirements
+Qualifications, Education, and Experience Required:
+MS or PhD in Computer Science, Machine Learning or related field.
+7+ years of industrial work experience developing and deploying ML models for audio or vision applications on resource constrained devices.
+Demonstrated strong communication skills to drive cross-functional alignment.
+Strong C++ and Python programming expertise and familiarity with ML frameworks (e.g. TensorFlow, PyTorch).
+Ability to quickly prototype and iterate on complex ML solutions.
+Strong analytical and problem-solving skills.
+Benefits
+Benefits Summary:
+Medical: Several plan options including PPO and HSA-compatible plans from Anthem Blue Cross, most of which are 100% paid by Syntiant Corp. for you and your family.
+Dental: Company-paid dental PPO coverage from MetLife, including coverage for Orthodontia.
+Vision: Company-paid vision PPO coverage from MetLife / VSP.
+Life Insurance / AD&D: Company-paid basic Life / AD&D coverage in the amount of 3x your salary (up to $1,000,000). Additional supplemental life insurance with low group rates is available for yourself and your family.
+Disability Coverage: Company-paid Short Term and Long-Term Disability coverage provides up to 60% income replacement protection.
+Spending and Savings Accounts: Flexible Spending Account (FSA) benefits for Health Care and Dependent Care. Health Savings Accounts (HSA) for those enrolled in a qualified Medical plan.
+401K Retirement Plan: Administered by Empower, the 401(k) plan allows you to plan for your future by investing a portion of each paycheck.
+Other Benefits: A company-provided Employee Assistance Program (EAP), as well as access to additional voluntary benefits including Accident, Critical Illness, Hospital Indemnity, Legal Support, and Identity Fraud Protection.
+About Syntiant:
+Founded in 2017 and headquartered in Irvine, Calif., Syntiant Corp. is a leader in delivering hardware and software solutions for edge AI deployment. The company’s purpose-built silicon and hardware-agnostic models are being deployed globally to power edge AI speech, audio, sensor and vision applications across a wide range of consumer and industrial use cases, from earbuds to automobiles. Syntiant’s advanced chip solutions merge deep learning with semiconductor design to produce ultra-low-power, high performance, deep neural network processors. Syntiant also provides compute-efficient software solutions with proprietary model architectures that enable world-leading inference speed and minimized memory footprint across a broad range of processors. The company is backed by several of the world’s leading strategic and financial investors including Intel Capital, Microsoft’s M12, Applied Ventures, Bosch Ventures, the Amazon Alexa Fund, and Atlantic Bridge Capital. More information on the company can be found by visiting www.syntiant.com.
+One element in our total compensation package is base pay. The starting base pay for this role is targeted to be between $225,000 - $275,000. Individual compensation decisions are based on a number of factors, including but not limited to previous experience and skills acquired prior to joining Syntiant, cost of living in the assigned work location, assigned schedule, and salaries of similarly situated peers at the company. It is to be expected that candidates will come to us with different sets of skills and experiences and therefore will be paid at different points in the stated range. We recognize that the person(s) we select for hire may be less experienced or more experienced than the role as posted; if this is the case, any updates to available salary ranges will be communicated with candidates during the recruitment process."
+"Product Manager / Senior Product Manager, Machine Learning",Precision Neuroscience,"Santa Clara, CA 95054","$150,000 - $200,000 a year",https://www.indeed.com/rc/clk?jk=c628d900b1f97b43&bb=cNkGSMSyTFBvJXrJ_zGjrV_M0H10GU4gMxEFbQBiNZHeSrJg2QT21Dzvj-GpSCBOFdMKZTv5JXv7yXk40Lo2NlkDShy-iotZZEgPwFNG815WJA0ILnnrsJOE_z9JRDXaB4ZGF4qxhlNQnMUWKJoEiA%3D%3D&xkcb=SoAV67M3sg1RUTyJXx0RbzkdCdPP&fccid=16ce23b188ce84e3&vjs=3,"Description
+
+Precision Neuroscience is pioneering a brain implant, known as a brain-computer interface (BCI), to restore communication and independence for people with neurological conditions. Our cutting-edge technology is designed to empower people with paralysis to control digital devices—such as computers and smartphones—with their thoughts alone, opening new possibilities for daily life.
+Precision’s multidisciplinary team brings together leading experts in diverse fields such as neurosurgery, artificial intelligence, machine learning, microfabrication, electrical engineering, and more. We are committed to turning breakthrough scientific advancements into real-world solutions for people affected by conditions such as spinal cord injury, stroke, and ALS.
+
+As a Precision employee, you will be joining one of the fastest moving and best-capitalized companies in the emerging field of BCI. Since our founding in 2021, Precision has secured over $155 million in funding, developed and validated our technology, and initiated human trials in collaboration with some of the nation’s top hospitals.
+
+We are seeking a Product Manager of Machine Learning to drive the execution of our machine learning initiatives. This individual will partner closely with our ML lead and cross-functional teams to plan, prioritize, and deliver ML-driven features and capabilities.
+
+In this role you will own the day-to-day product management of the ML team – breaking down complex initiatives into actionable plans, defining clear requirements and success metrics, and ensuring timely execution of work that supports our clinical programs and next-generation product roadmap. This is a unique opportunity to shape groundbreaking brain–computer interface technology that will directly impact the lives of people living with severe neurological conditions.
+
+This position will be based in our Manhattan or Santa Clara office. We are unable to consider remote workers or people not currently based in the United States, with working rights.
+
+Key Responsibilities
+
+ML Team Planning & Execution: Own the day-to-day planning and management of the ML team’s work, including backlog generation, refinement, and sprint planning.
+Requirements Definition: Collaborate closely with the ML lead and cross-functional stakeholders (clinical, UX, hardware, software, and other PMs) to gather, define, and document detailed ML requirements and success metrics.
+Implementation & Acceptance Criteria: Partner with UX research and design to define implementation details and acceptance criteria for ML-driven features, ensuring user-centered outcomes.
+Work Breakdown: Break down complex ML initiatives into epics and user stories to drive efficient development cycles.
+Clinical Collaboration: Partner with the clinical team to ensure the ML team has the data and patient enrollment necessary for model development and validation. Support IONM and EONM case planning, goal-setting, and learnings capture.
+Cross-functional Coordination: Ensure seamless communication between the ML team and other departments, including regulatory, quality, UX, and software engineering.
+
+Skills, Knowledge and Expertise
+
+3+ years of experience in product management, ideally with a strong focus on machine learning or AI-driven products.
+Proven experience in Agile development, including sprint planning, backlog management, and epic/story creation. Solid understanding of machine learning concepts, methodologies, and data pipelines. Strong track record working with cross-functional teams including ML engineers, data scientists, UX designers, and clinical professionals. Excellent communication, interpersonal, and presentation skills. Ability to thrive in a fast-paced, innovative environment.
+Experience in healthcare, neuroscience, or a related field is a plus.
+Diverse workforces create the best culture, company, and products. We at Precision are committed to an inclusive culture that celebrates the uniqueness and contributions of everyone. As an equal opportunity employer, Precision does not discriminate on the basis of sex, race, religion, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+
+About Precision Neuroscience
+Precision Neuroscience is pioneering a brain implant, known as a brain-computer interface (BCI), to restore communication and independence for people with neurological conditions. Our cutting-edge technology is designed to empower people with paralysis to control digital devices—such as computers and smartphones—with their thoughts alone, opening new possibilities for daily life.
+Precision’s multidisciplinary team brings together leading experts in diverse fields such as neurosurgery, artificial intelligence, machine learning, microfabrication, electrical engineering, and more. We are committed to turning breakthrough scientific advancements into real-world solutions for people affected by conditions such as spinal cord injury, stroke, and ALS.
+
+As a Precision employee, you will be joining one of the fastest moving and best-capitalized companies in the emerging field of BCI. Since our founding in 2021, Precision has secured over $155 million in funding, developed and validated our technology, and initiated human trials in collaboration with some of the nation’s top hospitals."
+"Member of Technical Staff, Machine Learning Engineer","Reinforce Labs, Inc.","Palo Alto, CA","$130,000 - $200,000 a year",https://www.indeed.com/rc/clk?jk=42bc06cd4adc0dc8&bb=cNkGSMSyTFBvJXrJ_zGjrS-yh_YlvvWAKbQzN5z7QjqTfYtDoby-H9qxNN5nn-tXlggxbyW6alWOIw521dd4KbP4N_ZYRiYiEJsPJuKhHZimSdXMQpuOGAxDt8kAV-7ts8EcabTlyyTZKJLkS6zFRA%3D%3D&xkcb=SoDy67M3sg1RUTyJXx0DbzkdCdPP&fccid=dd616958bd9ddc12&vjs=3,"What You'll Work On
+At Reinforce Labs, we partner directly with customers to build AI systems that enhance the safety and reliability of their complex, high-impact applications. In this role, you'll engage directly with clients to deeply understand their specific challenges, conduct thorough data analysis, and deliver trust and safety AI solutions. You'll implement advanced machine learning techniques including LLMs, reinforcement learning, and deep learning - often translating cutting-edge research papers into practical applications.
+This position combines technical depth with significant client-facing responsibilities. You'll tackle high-stakes problems with unclear solutions but real-world consequences. Key responsibilities include:
+Conducting technical research with customers to map critical workflows and developing sophisticated AI probes that identify potential edge-case failures
+Performing comprehensive data analysis to build specialized classifiers that detect subtle risks, violations, and anomalies
+Implementing and fine-tuning generative models that can simulate rare or high-risk scenarios
+Designing systems that enhance human decision-making under pressure
+Our success is measured by real-world impact. You'll develop and ship solutions that protect people and platforms at scale while building trusted relationships with the clients who depend on our technology.
+Must-Have
+Experience with ML and deep learning frameworks such as PyTorch or TensorFlow
+Ability to translate cutting-edge research papers into practical AI applications
+Strong analytical skills to identify trust and safety threat patterns and challenges
+Hands-on experience training and deploying machine learning models in production
+Proficiency in Python
+Nice-to-Have
+Experience partnering with trust & safety leads and background in trust & safety, moderation, AI safety, or security-focused ML to deliver state-of-the-art solutions [a big plus]
+An advanced degree in computer science or a related field
+Experience in early-stage startups
+Experience in customer-facing AI technical solutions
+Contributions to high value AI/ML community projects
+Who We Are
+Reinforce Labs is a small team with a clear mission: to use AI to make critical systems safer, not just smarter.
+We value:
+Willingness to learn new things, take on diverse tasks, and challenge yourself
+Hands-on technical excellence
+Ownership
+Ability to handle ambiguity
+Fast, results-driven delivery
+Compensation Range: $130K - $200K"
+"Machine Learning Engineer, ML Runtime & Optimization",pony.ai,"Fremont, CA","$140,000 - $250,000 a year",https://www.indeed.com/rc/clk?jk=75458c678ff42c83&bb=cNkGSMSyTFBvJXrJ_zGjrXlXC9B5EISO2o444VVK9wwlkkOhAgVXU-94DHdAVwmMk6_rAciHGuxkLjTnx0Tsjk021ocplvCBBRfP5w1MaR_yipvcWfGtVY7gz7-JTJs-Pfd6HR51CfOgEbUI56q8ng%3D%3D&xkcb=SoDI67M3sg1RUTyJXx0FbzkdCdPP&fccid=ff5c40dcb95012b5&vjs=3,"Founded in 2016 in Silicon Valley, Pony.ai has quickly become a global leader in autonomous mobility and is a pioneer in extending autonomous mobility technologies and services at a rapidly expanding footprint of sites around the world. Operating Robotaxi, Robotruck and Personally Owned Vehicles (POV) business units, Pony.ai is an industry leader in the commercialization of autonomous driving and is committed to developing the safest autonomous driving capabilities on a global scale. Pony.ai’s leading position has been recognized, with CNBC ranking Pony.ai #10 on its CNBC Disruptor list of the 50 most innovative and disruptive tech companies of 2022. In June 2023, Pony.ai was recognized on the XPRIZE and Bessemer Venture Partners inaugural “XB100” 2023 list of the world’s top 100 private deep tech companies, ranking #12 globally. As of August 2023, Pony.ai has accumulated nearly 21 million miles of autonomous driving globally. Pony.ai went public at NASDAQ in Nov. 2024.
+Responsibility
+The ML Infrastructure team at Pony.ai provides a set of tools to support and automate the lifecycle of the AI workflow, including model development, evaluation, optimization, deployment, and monitoring.
+As a Machine Learning Engineer in ML Runtime & Optimization, you will be developing technologies to accelerate the training and inferences of the AI models in autonomous driving systems.
+This includes:
+Identifying key applications for current and future autonomous driving problems and performing in-depth analysis and optimization to ensure the best possible performance on current and next-generation compute architectures.
+Collaborating closely with diverse groups in Pony.ai including both hardware and software to optimize and craft core parallel algorithms as well as to influence the next-generation compute platform architecture design and software infrastructure.
+Apply model optimization and efficient deep learning techniques to models and optimized ML operator libraries.
+Work across the entire ML framework/compiler stack (e.g.Torch, CUDA and TensorRT), and system-efficient deep learning models.
+Requirements
+BS/MS or Ph.D in computer science, electrical engineering or a related discipline.
+Strong programming skills in C/C++ or Python.
+Experience on model optimization, quantization or other efficient deep learning techniques
+Good understanding of hardware performance, regarding CPU or GPU execution model, threads, registers, cache, cost/performance trade-off, etc.
+Experience with profiling, benchmarking and validating performance for complex computing architectures.
+Experience in optimizing the utilization of compute resources, identifying and resolving compute and data flow bottlenecks.
+Strong communication skills and ability to work cross-functionally between software and hardware teams
+Preferred Qualifications:
+One or more of the following fields are preferred
+Experience with parallel programming, ideally CUDA, OpenCL or OpenACC.
+Experience in computer vision, machine learning and deep learning.
+Strong knowledge of software design, programming techniques and algorithms.
+Good knowledge of common deep learning frameworks and libraries.
+Deep knowledge on system performance, GPU optimization or ML compiler.
+Compensation and Benefits
+Base Salary Range: $140,000 - $250,000 Annually
+Compensation may vary outside of this range depending on many factors, including the candidate’s qualifications, skills, competencies, experience, and location. Base pay is one part of the Total Compensation and this role may be eligible for bonuses/incentives and restricted stock units.
+Also, we provide the following benefits to the eligible employees:
+Health Care Plan (Medical, Dental & Vision)
+Retirement Plan (Traditional and Roth 401k)
+Life Insurance (Basic, Voluntary & AD&D)
+Paid Time Off (Vacation & Public Holidays)
+Family Leave (Maternity, Paternity)
+Short Term & Long Term Disability
+Free Food & Snacks"
+Machine Learning Research Scientist,Autoscience,"Menlo Park, CA",Full-time,https://www.indeed.com/rc/clk?jk=3a2dafedd2537008&bb=cNkGSMSyTFBvJXrJ_zGjrXG7noQTsw00UuJRugIE-n4yrLR9mqzML86hfmdDaamAn_fgwDa0cfRVY-U597xDlFqzZxxOkjpCH5PS6qt3Ao1afbyIpnuZ4fF7KHoz4fTa2y3Uo7Q5NFpt_ID63muvdg%3D%3D&xkcb=SoDV67M3sg1RUTyJXx0cbzkdCdPP&fccid=dd616958bd9ddc12&vjs=3,"Develop autonomous research systems that ideate, experiment, and publish scientific papers. You'll be working on the first and best AI system to automate scientific discovery in AI research.
+Key Responsibilities
+Design and implement novel AI systems for automated research.
+Collaborate with development team to build and deploy production-ready your research.
+RL post-train and finetune reasoning models to automated components the ML scientific process.
+Publish findings in top-tier academic conferences and journals.
+Stay current with latest developments in AI research and automation.
+Qualifications:
+Education: PhD or equivalent research experience in Computer Science, Machine Learning, Artificial Intelligence, or a related field. Exceptional candidates with strong research contributions are encouraged to apply regardless of formal degree.
+Research: Publishing in top-tier AI/ML conferences (e.g., NeurIPS, ICML, ICLR, etc) or equivalent industry experience at corporate AI research labs (Microsoft, Google, Nvidia, TRI etc).
+Technical: Expertise in training machine learning models, including deep learning, reinforcement learning or genetic algorithms. This does not include building multi-agent systems using LLM APIs or building RAG-based agents.
+Curiosity: Passion for accelerating scientific discovery through AI and willingness to explore uncharted directions with minimal supervision.
+Recommended Qualifications
+Systems: Experience building scalable and production-ready machine learning pipelines or large-scale model training (distributed model training over >64 GPUs).
+Science: Any background or proven interested in Automated Scientific Research is a plus.
+Benefits & Perks
+Competitive salary and equity package
+Unlimited PTO and flexible working arrangements
+Conference attendance and publication support
+Our Culture
+We're a team of passionate researchers and engineers working to automate scientific discovery. The team is a strong mix of fast investors and experienced builders. We believe in the power of AI to accelerate scientific discovery and are committed to responsible AI development
+
+We are an e-verify employer."
+Mathematical Scientist,Pit.AI Technologies Inc.,"San Jose, CA 95131 
+(North Valley area)","$150,000 a year",https://www.indeed.com/rc/clk?jk=301b75e466e9c692&bb=cNkGSMSyTFBvJXrJ_zGjrRWfDCVEoKUy56gaN9RIq-p4GKna_Eo6m7hN80_ac--KJjoMjrykg-3X-5NdOhlZAaFeWM1NhWAAOmA4nv7hzn_fioTAHuKxK-w6q-EbfYADVrUBHpWpb454PlPUzfEpWA%3D%3D&xkcb=SoD867M3sg1RUTyJXx0ebzkdCdPP&fccid=5b0e908098a0f359&vjs=3,"Pit.AI Technologies is taking on one of the most exciting challenges of our time, namely solving intelligence, in one of the most competitive industries ever, investment management!
+The team enjoys the duality of solving humongous research and engineering problems, while remaining focused on very concrete shorter-term breakthroughs. We believe in excellence, humility, trust and inclusion, and every team member has a veto power on who we hire.
+We adopt a finance-first approach to machine learning research, and we do not indulge in blindly applying solutions to machine learning problems in other domains to finance. Core to our research philosophy is the need to place as little assumptions on how the world behaves as possible, but rather let the data speak for itself, and use mathematical rigor to understand what the data is truly saying.
+We are backed by Y Combinator, legendary Renaissance Technologies and First Round Capital co-founder Howard Morgan, and prominent tech VCs David Lee & Zal Bilimoria, to name but a few.
+
+Pit.AI Technologies is hiring a Mathematical Scientist. You'll be at the core of our effort to solve intelligence for investment management, and as such, you'll work very closely with the CEO/CTO to improve our current generation of AI-Quants.
+
+This role is an in-house mathematician role. As such, you'll be involved in formulating fundamental questions arising as part of the investment process as mathematical problems consistent with our research philosophy, and you'll be responsible for solving those mathematical problems. This role is central to our research efforts, and your output is expected to have a critical impact on our bottom line, both in the short term and in the long term.
+
+The ideal candidate typically loves (and is capable of) testing and proving complex theorems and conjectures of her/his own, but prefers industry over academia as she/he is eager and impatient to see the impact of her/his work in real-life. She/he never shies away from finding closed-form solutions to complex mathematical problems, but she/he can also gauge the merits of numerical methods as an alternative when appropriate. As much as this is not an engineering role, the ideal candidate should be able to write prototype-quality Python code to test found mathematical results.
+
+Pit.AI Technologies supports publications of methodological findings to top machine learning venues.
+
+We strongly encourage applicants to read our blog posts (http://bit.ly/2Jf97aV) prior to applying, in order to get acquainted with our research philosophy and some of our works.
+
+Requirements:
+Ph.D. / Post Doc in Maths from a top university or research group, with an emphasis on stochastic analysis, optimization, and/or functional analysis.
+Excellent graduate-level understanding of probability theory, stochastic analysis, functional analysis and optimization, as evidenced for instance by a French DEA in maths, or the Cambridge Part III, prior to your PhD in Maths.
+Strong intuition to guide the design of reasonable conjectures from the geometry of the problem and background knowledge prior to attempting any proof.
+No finance or machine learning experience is required."
+"Senior Machine Learning Engineer, Agentic",Robinhood,"Menlo Park, CA","$187,000 - $220,000 a year",https://www.indeed.com/rc/clk?jk=fe52a55b0e91dd96&bb=cNkGSMSyTFBvJXrJ_zGjrT7u7BPIHsoiBWuo1MKubaGdPvYtAB3lhvbG5_zG1NIF0QoiTO3DYcW2VDImEKJRhJGh-gxP4R5qYaPuXsfZg_zoVlurIzTrcuxzAp_0OAO1KW6RmKsWbZxDOmXF4q1d6g%3D%3D&xkcb=SoCG67M3sg1RUTyJXx0PbzkdCdPP&fccid=fba1f219793d6b80&vjs=3,"Join us in building the future of finance.
+Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you're ready to be at the epicenter of this historic cultural and financial shift, keep reading.
+About the team + role
+
+We are building an elite team, applying frontier technologies to the world's biggest financial problems. We're looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn't a place for complacency, it's where ambitious people do the best work of their careers. We're a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards.
+The Agentic team at Robinhood is building the foundation for AI agents that power the next generation of AI financial products and internal tools. Our mission is to empower teams across the company to rapidly build, evaluate, and deploy high-performance AI agents through intuitive tooling, production-grade infrastructure, and continuous optimization support. We're creating a platform that makes it easy for engineers to experiment, ship, and scale agents reliably.
+The role is located in the office location(s) listed on this job description which will align with our in-office working environment. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+What you'll do
+Design and create tools and workflows for agent development that support rapid prototyping—define agents, compose toolchains, and construct reasoning loops with minimal overhead.
+Build platform solutions to support scalable experimentation, synthetic dataset generation, and multi-agent evaluation across diverse tasks and domains.
+Develop feedback and optimization pipelines that incorporate both automated metrics and human-in-the-loop evaluation signals to fine-tune agent behavior.
+Implement and scale optimization techniques such as Direct Preference Optimization (DPO), Proximal Policy Optimization (PPO), and reward modeling to improve agent performance.
+Launch and support fine-tuned models in production environments with robust evaluation, rollback strategies, and performance monitoring.
+Collaborate closely with applied AI/ML teams to translate state-of-the-art research in agentic reasoning, planning, and tool use into reliable, production-ready systems.
+What you bring
+Strong technical expertise in software development, with understanding of agentic workflows—including reasoning loops, tool invocation, memory, and orchestration of autonomous AI agents.
+Hands-on experience using Large Language Models, including prompt engineering, fine-tuning, model distillation, and deploying optimized models (e.g. via DPO, PPO) into production environments.
+Proven ability to build and scale ML/AI systems, from experimentation to deployment—owning dataset generation, evaluation pipelines, A/B testing, and performance monitoring.
+Leadership and mentorship capabilities, with a track record of guiding complex technical projects and supporting the growth of teammates through code/design reviews and technical direction.
+Excellent communication and collaboration skills, with the ability to translate technical ideas into actionable plans and work effectively with cross-functional partners, including product and infrastructure teams.
+Innovation mindset and commitment to continuous learning and a bias toward action, staying at the forefront of ML/AI trends, agentic systems research, and best practices in tooling, safety, and evaluation.
+What we offer
+Market competitive and pay equity-focused compensation structure
+100% paid health insurance for employees with 90% coverage for dependents
+Annual lifestyle wallet for personal wellness, learning and development, and more!
+Lifetime maximum benefit for family forming and fertility benefits
+Dedicated mental health support for employees and eligible dependents
+Generous time away including company holidays, paid time off, sick time, parental leave, and more!
+Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits
+
+Click here to learn more about our Total Rewards, which vary by region and entity.
+If our mission energizes you and you're ready to build the future of finance, we look forward to seeing your application.
+Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application."
+Machine Learning Researcher / Engineer (Foundational Models),Pathway,"Palo Alto, CA","$100,000 a year",https://www.indeed.com/rc/clk?jk=4f13bc24acbab0d8&bb=cNkGSMSyTFBvJXrJ_zGjrS-yh_YlvvWAmC9i74MvkSUnRI89SLi2c_4wKUAALxgYWhfceMh0VCab4nS6GCdskdYfOkCLAZGVAgHvuDR1UyF8V6tTyHZyocYWTqDhaGfmIcMq6BxHgFf2Jcwk4UO9hg%3D%3D&xkcb=SoDh67M3sg1RUTyJXx0HbzkdCdPP&fccid=d0ccef325c3ca7d1&vjs=3,"About Pathway
+At Pathway we are shaking the foundations of artificial intelligence by introducing the world’s first post-transformer model that adapts and thinks just like humans.
+Our breakthrough architecture outperforms Transformer and provides the enterprise with full visibility into how the model works. Combining the foundational model with the fastest data processing engine on the market, Pathway enables enterprises to move beyond incremental optimization and toward truly contextualized, experience-driven intelligence. We are trusted by organizations such as NATO, La Poste, and Formula 1 racing teams.
+Pathway is led by co-founder & CEO Zuzanna Stamirowska, a complexity scientist who created a team consisting of AI pioneers, including CTO Jan Chorowski who was the first person to apply Attention to speech and worked with Nobel laureate Geoff Hinton at Google Brain, as well as CSO Adrian Kosowski, a leading computer scientist and quantum physicist who obtained his PhD at the age of 20.
+The company is backed by leading investors and advisors, including Lukasz Kaiser, co-author of the Transformer (“the T” in ChatGPT) and a key researcher behind OpenAI’s reasoning models. Pathway is headquartered in Palo Alto, California.
+
+
+The Opportunity
+This is an R&D position in attention-based models.
+We are currently searching for 1 or 2 R&D Engineers with a strong track record in machine learning models research.
+This is an extremely ambitious foundational project. There is a flexible GPU budget associated with this specific project, guaranteed to be in the 7-digit range minimum.
+
+You Will
+perform (distributed) model training.
+help improve/adapt model architectures based on experiment results.
+design new tasks and experiments.
+optionally: oversee activities of team members involved in data preparation.
+The results of your work will play a crucial role in the success of the project.
+Requirements
+Cover letter
+It's always a pleasure to say hi! If you could leave us 2-3 lines, we'd really appreciate that.
+You are expected to meet at least one of the following criteria:
+You have published at least one paper at NeurIPS, ICLR, or ICML - where you were the lead author or made significant conceptual & code contributions.
+You have significantly contributed to an LLM training effort which became newsworthy (topped a Huggingface benchmark, best in class model, etc.), preferably using multiple GPU's.
+You have spent at least 6 months working in a leading Machine Learning research center (e.g. at: Google Brain / Deepmind, Apple, Meta, Anthropic, Nvidia, MILA).
+You were an ICPC World Finalist, or an IOI, IMO, or IPhO medalist in High School.
+You Are
+A deep learning researcher, with a track record in Language Models and/or RL (candidates with a Vision or Robotics ML background are also welcome to apply).
+Interested in improving foundational architectures and creating new benchmarks.
+Experienced at hands-on experiments and model training (PyTorch, Jax, or Tensorflow).
+Have a good understanding of GPU architecture, memory design, and communication.
+Have a good understanding of graph algorithms.
+Have some familiarity with model monitoring, git, build systems, and CI/CD.
+Respectful of others
+Fluent in English
+Bonus Points
+Knowledge of approaches used in distributed training.
+Familiarity with Triton
+Successful track-record in algorithms & data science contests.
+Showing a code portfolio.
+Why You Should Apply
+Join an intellectually stimulating work environment.
+Be a pioneer: you get to work with a new type of ""Live AI"" challenges around long sequences and changing data.
+Be part of one of an early-stage AI startup that believes in impactful research and foundational changes.
+Benefits
+Type of contract: Full-time, permanent
+Preferable joining date: Immediate. The positions are open until filled – please apply immediately.
+Compensation: six-digit annual salary based on profile and location + Employee Stock Option Plan.
+Location: Remote work. Possibility to work or meet with other team members in one of our offices: Palo Alto, CA; Paris, France or Wroclaw, Poland. Candidates based anywhere in the EU, UK, United States, and Canada will be considered.
+If you meet our broad requirements but are missing some experience, don’t hesitate to reach out to us."
+Deep Learning Engineer,Matroid,"Palo Alto, CA 94301 
+(University South area)","$170,000 - $300,000 a year",https://www.indeed.com/rc/clk?jk=85b149486c655b2b&bb=cNkGSMSyTFBvJXrJ_zGjrd3LqEBUOPGZ75cuutq5srFsXIOT2YvFSuNHY5G5ZhtHk30J48b-x9PIjHtJY5M5gp_c_HUcjtDNUWm83ZvWkT5uk_NwpV5ZA-uERO4weoVAvRqWjdOg8j_BhfhJxQrnWA%3D%3D&xkcb=SoCb67M3sg1RUTyJXx0WbzkdCdPP&fccid=f6bdb031595414c5&vjs=3,"About Matroid
+Matroid is a full-service computer vision company that has developed an end-to-end platform allowing enterprise customers to rapidly train and
+deploy automated visual inspection on imagery including EO, IR, X-Ray, CT, OCT, and others.
+Founded in 2016 by a Stanford professor, Matroid has a broad and rapidly growing set of customers in manufacturing, industrial IoT, government and security.
+We are looking for a world-class Deep Learning Software Engineer who is excited to operate at the forefront of computer vision and deep learning applied to challenging, real-world use-cases. You will be working in a fast-paced environment, surrounded by experts who are passionate about their work.
+
+This position is onsite at our downtown Palo Alto office, located near the Stanford campus and Caltrain.
+What you'll do
+Advance the computer vision and deep learning technology powering Matroid's computer vision platform
+Keep on top of the latest developments and research in academic CV/DL and decide how we should apply them to our real world use-cases
+Engineer new DL capabilities end-to-end; research, experiment, iterate, develop, optimize and productionize
+How you'll be doing it
+
+Operating in a collaborative but highly autonomous environment where you are empowered to make an impact
+Knowing that everything you build affects real-world users, with corresponding quality standards for your work
+Collaborating with other DL engineers, as well as our other expert teams, including product, infrastructure, and field engineering
+What you bring to the table
+Masters in Computer Science, Software Engineering, Mathematics, or equivalent
+Passion for computer vision and deep learning; you are excited to adapt the latest VLMs, or implement a video transformer model from scratch, or get realtime segmentation running on a tiny edge device, or train a massive industry-specific foundation model
+3+ years of industry and/or academic experience relating to software, deep learning and computer vision
+Experience using and modifying state-of-the-art CV models and frameworks, with understanding of their theoretical underpinnings
+Knowledge of model architectures and techniques across a broad range of domains, including object detection, segmentation, anomaly detection, object tracking, video-understanding and vision language models
+Strong software engineering skills - you care deeply about the quality of your code
+Solid oral, written, presentation, collaboration, and interpersonal communication skills
+Bonus points if...
+Specialization in CV, artificial intelligence, machine learning, or related fields
+Significant computer vision & deep learning academic and/or research experience
+Prior work experience with applied computer vision in real-world use-cases
+Cool personal projects, competitions, hackathons, etc. demonstrating your passion & expertise
+Previous work at high-growth technology startups
+What we offer in return
+Competitive pay and equity.
+The chance to constantly work on stimulating intellectual challenges.
+Gym membership reimbursement.
+Free lunch, healthy drinks, and snacks every day.
+Medical, dental, and vision insurance with 100% paid premiums.
+A flexible schedule that leaves time for all of your other interests.
+A budget for whatever hardware or software will make you most effective.
+Regular tech talks to discuss the latest advances in CV, DL and engineering
+Matroid is committed to creating a diverse work environment and is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status, or any other basis covered by appropriate law."
+Forward-Deployed ML Engineer,WindBorne Systems,"Palo Alto, CA 94303","$90,000 - $200,000 a year",https://www.indeed.com/rc/clk?jk=6407570848cfeae7&bb=cNkGSMSyTFBvJXrJ_zGjraDmnFBb6685vdkubq9L2D_o-mXBodeCv82PhacXlYYNgxJ9ETkL56tQUSOGcBp9gxejNTW81Xb5918MlLet2TeYqU6Sxnu7GKjBLY1IY7g_-G37pjUo9FsWY8Gh6yw1Zg%3D%3D&xkcb=SoCh67M3sg1RUTyJXx0QbzkdCdPP&fccid=0505d62548f0483d&vjs=3,"WindBorne Systems is supercharging weather models with a unique proprietary data source: a global constellation of next-generation smart weather balloons targeting the most critical atmospheric data. We design, manufacture, and operate our own balloons, using the data they collect to generate otherwise unattainable weather intelligence.
+Our mission is to eliminate weather uncertainty, and in the process help humanity adapt to climate change, be that predicting hurricanes or speeding the adoption of renewables. We are building a future in which the planet is instrumented by thousands of our micro high-altitude balloons, eliminating gaps in our understanding of the atmosphere and giving people and businesses the information they need to make critical decisions. The founding team of Stanford engineers was named Forbes 2019 30 under 30 and is backed by top investors including Khosla Ventures.
+This role is unlike a typical machine learning position. You will begin as a regular member of our Deep Learning team, contributing to the development of our cutting-edge global AI weather model, WeatherMesh. After a few months, you will transition into a “forward-deployed” role, becoming the technical point of contact and project manager for key external collaborations, including a DARPA project. This means owning both the technical contributions and the customer relationship, ensuring WindBorne’s models are successfully integrated into high-stakes projects.
+You won’t just be training models in isolation. You’ll be learning the science, building the systems, and then sitting across the table from program managers and partners, explaining how and why the model works—and what comes next. The person in this role will bridge worlds: the intensity of deep learning R&D and the practical realities of customer-facing relationships and delivery.
+Responsibilities
+Design, train, and evaluate of our AI-based weather models
+
+Work as part of the Deep Learning team on model development and operations
+
+Transition into owning external collaborations, taking responsibility for both technical deliverables and project management
+
+Translate ambiguous customer needs into concrete technical tasks and drive them to completion
+
+Represent WindBorne’s technical work to external partners, providing clarity, accountability, and credibility
+
+Act as the connective tissue between our research team and customer-facing programs, ensuring our science delivers real-world impact
+
+Skills and Qualifications
+Strong foundation in machine learning and deep learning (PyTorch preferred), with experience training and debugging models end-to-end
+
+Ability to write high-quality, maintainable code for ML workflows (data processing, modeling, evaluation)
+
+Exceptional communication skills—you can clearly explain complex technical ideas to non-technical stakeholders
+
+Self-directed learner who thrives in ambiguous, high-stakes environments
+
+Interest in, or experience with, customer-facing work such as technical project management, research collaborations, or applied consulting
+
+Strong work ethic and drive for constant improvement, balanced with the ability to collaborate within a high-functioning team
+
+This role is for you if…
+You are an ML engineer who doesn’t just want to code in a silo—you want to see your work make an immediate impact in the world
+
+You thrive on both technical depth and human connection: you enjoy debugging CUDA, but you also don’t shy away from getting on a call with a DARPA program manager
+
+You are excited to grow from a strong individual contributor into the technical owner of critical external programs
+
+Benefits
+401(k)
+Dental insurance
+Health insurance
+Vision insurance
+Unlimited PTO
+Stock Option Plan
+Office food and beverages
+Salary
+$90k-200k** We are considering a range of backgrounds and experience levels for this position and will adjust our offers accordingly to be competitive with market rates.
+
+Location
+858 San Antonio Rd, Palo Alto, CA. In person required."
+,,,,https://www.indeed.com/viewjob?jk=789abcdef0123456,None
