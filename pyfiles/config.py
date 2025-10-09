@@ -26,7 +26,7 @@ PAGE_SWITCH_MIN = 2
 PAGE_SWITCH_MAX = 4
 
 # WebDriver wait timeout
-WEBDRIVER_TIMEOUT = 10
+WEBDRIVER_TIMEOUT = 15
 
 # Threading configuration
 DEFAULT_THREADS = 3

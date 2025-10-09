@@ -2,11 +2,13 @@ import config
 import utils
 import keywords_main
 
-jt = keywords_main.main()
+# jt = keywords_main.main()
 
-job_title = jt
-print("\n" * 8)
-print("You are directing to indeed job search based on your interest earlier. ")
+job_title = input("Enter job title: ")
+
+# job_title = jt
+# print("\n" * 8)
+# print("You are directing to indeed job search based on your interest earlier. ")
 city = input("Enter city for job search: ")
 state = input("Enter state for the city you choose: ")
 
